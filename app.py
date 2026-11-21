@@ -20,9 +20,9 @@ HTML = """
 TOKENS_HTML = """
 <!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Tokens - AcobesChain</title>
 <style>body{background:#050505;color:#fff;font-family:Arial;text-align:center;padding:20px}.card{border:1px solid #00ffcc;padding:15px;border-radius:12px;margin:10px auto;max-width:600px;text-align:left}.boton{background:#00ffcc;color:#000;padding:10px 20px;border-radius:30px;font-weight:bold;text-decoration:none;display:inline-block;margin:5px}</style>
-</head><body><h1>TOKENS SOBERANOS - ACOBESCHAIN</h1><p>Chain: acobes-mainnet-1 | Consenso: Proof-of-Architect (DPoS) | Diseno Conceptual</p><a class="boton" href="/">VOLVER A LA PUERTA</a>
-{% for t in tokens %}<div class="card"><h2>{{t.simbolo}} - {{t.nombre}}</h2><p>Rol: {{t.rol}}</p><p>Supply Conceptual: {{t.supply}}</p><p>Valor Conceptual: {{t.precio_conceptual}}</p><p>Red: AcobesChain - No Solana, No Ethereum</p></div>{% endfor %}
-<p style="font-size:12px;opacity:0.7">Valores de diseno conceptual del cuaderno del Arquitecto. No son precios de mercado real.</p></body></html>
+</head><body><h1>TOKENS SOBERANOS - ACOBESCHAIN</h1><p>Chain: acobes-mainnet-1 | Consenso: Proof-of-Architect (DPoS) | Precio de Apertura - Mercado Propio</p><a class="boton" href="/">VOLVER A LA PUERTA</a>
+{% for t in tokens %}<div class="card"><h2>{{t.simbolo}} - {{t.nombre}}</h2><p>Rol: {{t.rol}}</p><p>Supply Conceptual: {{t.supply}}</p><p>Precio Soberano: {{t.precio_conceptual}}</p><p>Red: AcobesChain - No Solana, No Ethereum</p></div>{% endfor %}
+<p style="font-size:12px;opacity:0.7">Precio de Apertura de Mercado Propio AcobesChain. Valor Soberano Inmutable fijado en Genesis por Pedro J. Acobes, Arquitecto. Mercado interno soberano. Esta cadena no pide permiso a mercados externos.</p></body></html>
 """
 CATALOGO_HTML = """
 <!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Catalogo - AcobesChain</title>
@@ -44,7 +44,7 @@ def cadena():
     return jsonify({**CADENA, "hora_superficie": datetime.datetime.now().isoformat(), "canales": CANALES, "genesis": GENESIS})
 @app.route("/api/tokens")
 def api_tokens():
-    return jsonify({"chain_id": GENESIS["chain_id"], "owner": GENESIS["owner"], "tokens": TOKENS, "nota": "Diseno conceptual"})
+    return jsonify({"chain_id": GENESIS["chain_id"], "owner": GENESIS["owner"], "tokens": TOKENS, "nota": "Precio de Apertura - Mercado Propio"})
 @app.route("/api/catalogo")
 def api_catalogo():
     return jsonify({"artista": "Pedro J. Acobes", "sello": "Arquitectura Records LLC", "total": len(CATALOGO), "catalogo": CATALOGO})

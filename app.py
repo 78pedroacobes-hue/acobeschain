@@ -1,48 +1,43 @@
-from flask import Flask, jsonify
+from flask import Flask, send_from_directory, jsonify
+import os
 app = Flask(__name__)
-
-TOKENS = [
-    {"simbolo": "AGC", "nombre": "Acobes Gold Coin", "rol": "Gobernanza - Oro"},
-    {"simbolo": "ASC", "nombre": "Acobes Silver Coin", "rol": "Soberano - Plata"},
-    {"simbolo": "AQC", "nombre": "Acobes Quartz Coin", "rol": "Computo - Cuarzo"},
-    {"simbolo": "ACC", "nombre": "Acobes Copper Coin", "rol": "Comercio - Cobre"},
-    {"simbolo": "ADC", "nombre": "Acobes Diamond Coin", "rol": "Digital - Diamante"},
-    {"simbolo": "AC", "nombre": "Acobes Coin", "rol": "Gas Base"},
-]
+MUSICA_DIR = "/root/musica"
 
 MUSICA = [
-    {"title": "Apocalipsis 13", "file": "Apocalipsis_13.mp3", "sha256": "pendiente", "plays": 0},
-    {"title": "Lirios Del Sur - Corte Suprema Master", "file": "Lirios_Del_Sur_Corte_Suprema_Master.wav", "sha256": "pendiente", "plays": 0},
-    {"title": "No Me Ronquen", "file": "No_me_ronquen.wav", "sha256": "pendiente", "plays": 0},
+    {"title": "Sunblock", "file": "Sunblock.mp3"},
+    {"title": "El Arquitecto (4)", "file": "El Arquitecto (4).mp3"},
+    {"title": "Reescribo la Realidad (Remix)", "file": "Reescribo la Realidad (Remix).mp3"},
+    {"title": "Relacion Conmigo Mismo", "file": "Relación Conmigo Mismo.mp3"},
+    {"title": "Elon y Trump", "file": "Elon y Trump.mp3"},
 ]
 
 @app.route("/")
 def home():
-    return """<h1 style='text-align:center'>ACOBESCHAIN VIVA</h1>
-    <p style='text-align:center'>Puerta ABIERTA | Vault ACTIVO | Pedro J. Acobes</p>
-    <p style='text-align:center'><a href='/tokens'>TOKENS</a> | <a href='/musica'>MUSICA</a> | <a href='/health'>HEALTH</a></p>"""
-
-@app.route("/tokens")
-def tokens_page():
-    h = "<h1>TOKENS SOBERANOS</h1><a href='/'>VOLVER</a><br><br>"
-    for t in TOKENS:
-        h += f"<div style='border:1px solid #00ffcc;padding:10px;margin:10px'><b>{t['simbolo']} - {t['nombre']}</b><br>Rol: {t['rol']}</div>"
-    return h
+    return "<h1>ACOBESCHAIN VIVA</h1><p><a href='/musica'>MUSICA</a> | <a href='/health'>HEALTH</a></p>"
 
 @app.route("/musica")
+@app.route("/música")
 def musica_page():
-    h = "<h1 style='text-align:center'>MUSICA - ACOBESCHAIN</h1><p style='text-align:center'>Arquitectura Records LLC - Cadena Soberana</p><a href='/'>VOLVER</a><br><br>"
+    h = "<h1>MUSICA - ACOBESCHAIN - PEDRO ACOBES</h1><a href='/'>VOLVER</a><br><br>"
     for m in MUSICA:
-        h += f"<div style='border:1px solid #00ffcc;padding:10px;margin:10px;background:#111;color:#fff'><b>{m['title']}</b><br>File: {m['file']}<br>Hash: {m['sha256']}<br>Plays: {m['plays']}</div>"
+        # url encode spaces
+        import urllib.parse
+        url = "/audio/" + urllib.parse.quote(m['file'])
+        h += f"<div style='border:1px solid #00ffcc;padding:15px;margin:10px'><b>{m['title']}</b><br><audio controls src='{url}' style='width:100%'></audio><br><a href='{url}'>Descargar</a></div>"
     return h
+
+@app.route("/audio/<path:filename>")
+def audio(filename):
+    return send_from_directory(MUSICA_DIR, filename)
 
 @app.route("/api/musica")
 def api_musica():
-    return jsonify({"chain": "acobes-mainnet-1", "total": len(MUSICA), "musica": MUSICA})
+    files = []
+    for f in os.listdir(MUSICA_DIR):
+        if f.endswith(".mp3"):
+            files.append({"file": f, "size_mb": round(os.path.getsize(os.path.join(MUSICA_DIR, f))/1024/1024, 2)})
+    return jsonify({"chain": "acobes-mainnet-1", "total": len(files), "musica": files})
 
 @app.route("/health")
 def health():
-    return {"status": "ok", "cadena": "viva"}
-
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=10000)
+    return {"status": "ok", "cadena": "viva", "musica_files": len(os.listdir(MUSICA_DIR)) if os.path.exists(MUSICA_DIR) else 0}

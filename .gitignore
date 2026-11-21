@@ -1,0 +1,11 @@
+*.wav
+*.pth
+*.pyc
+__pycache__/
+venv/
+qvenv/
+*.swp
+.cache/
+.local/
+*.log
+nohup.out

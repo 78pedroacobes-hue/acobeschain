@@ -108,3 +108,34 @@ def reservas(): return jsonify({"total_reservas": len(RESERVAS), "nota": "Lista 
 def health(): return jsonify({"status": "ok", "cadena": "viva"})
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=10000)
+
+# --- MUSICA EN LA CADENA - AGREGADO SOBERANO ---
+from musica import MUSICA_CHAIN, add_play
+
+@app.route("/musica")
+def musica_page():
+    html = "<h1 style='text-align:center'>MUSICA - ACOBESCHAIN</h1><p style='text-align:center'>Arquitectura Records LLC - Cadena Soberana - Sin Spotify</p>"
+    for b in MUSICA_CHAIN:
+        d = b["data"]
+        html += f"""
+        <div style='border:1px solid #00ffcc;padding:15px;margin:10px auto;max-width:600px;background:#111;color:#fff'>
+        <b>{d['title']}</b><br>
+        Artista: {d['artist']}<br>
+        Hash: {d['sha256'][:16]}...<br>
+        Bloque: #{b['index']} | Prev: {b['previous_hash'][:8]}...<br>
+        Plays REALES en AcobesChain: <b>{d['plays']}</b><br>
+        <audio controls style='width:100%;margin-top:10px' onplay="fetch('/api/musica/play/{d['sha256']}',{{method:'POST'}})">
+        <source src='/static/{d['file']}'>
+        </audio>
+        </div>"""
+    html += "<p style='text-align:center'><a href='/'>VOLVER A LA PUERTA</a></p>"
+    return html
+
+@app.route("/api/musica")
+def api_musica():
+    return jsonify({"chain": "acobes-mainnet-1", "hub": "https://acobeschain.onrender.com", "total": len(MUSICA_CHAIN), "musica": MUSICA_CHAIN})
+
+@app.route("/api/musica/play/<sha>", methods=["POST"])
+def api_play(sha):
+    plays = add_play(sha)
+    return jsonify({"sha256": sha, "plays": plays, "real": True, "chain": "acobeschain"})

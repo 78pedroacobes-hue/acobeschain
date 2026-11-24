@@ -1,0 +1,3626 @@
+{
+    "entity": "Pedro J. Acobes | Acobes Industries Inc. / Arquitectura Records",
+    "token": "ACOB",
+    "total_plays": 67500007,
+    "total_tokens_supply": 505314846.5935,
+    "total_royalty_accrued_usd": 3375000.35,
+    "chain": [
+        {
+            "index": 0,
+            "timestamp": "2026-10-14 17:31:18 UTC",
+            "track": "GENESIS_BLOCK_SOVEREIGN",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Arquitectura Records",
+            "quantum_signature": [
+                0.0,
+                0.0
+            ],
+            "tokens_minted": 0.0,
+            "royalty_accrued_usd": 0.0,
+            "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+            "block_hash": "28a60c42eed5c1608fa41b6910f268f89d61611961045d4c649935c6de0b80fc"
+        },
+        {
+            "index": 1,
+            "timestamp": "2026-10-14 17:31:18 UTC",
+            "track": "Eleven.wav",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Arquitectura Records",
+            "quantum_signature": [
+                -0.21729,
+                0.81106
+            ],
+            "spectral_density": 0.378047,
+            "tokens_minted": 5763400.0,
+            "royalty_accrued_usd": 50000.0,
+            "prev_hash": "28a60c42eed5c1608fa41b6910f268f89d61611961045d4c649935c6de0b80fc",
+            "platform_breakdown": {
+                "Spotify": 658,
+                "YouTube_Music": 733,
+                "Apple_Music": 732,
+                "Social_Networks": 127,
+                "Direct_Sovereign_Stream": 218
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 1000000,
+            "block_hash": "fda7178bc23410775c58c331cf2f9cb51375c368b2d09762066501807f38a7af"
+        },
+        {
+            "index": 2,
+            "timestamp": "2026-10-14 17:31:18 UTC",
+            "track": "Lirios_Del_Sur_Corte_Suprema_Master.wav",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Arquitectura Records",
+            "quantum_signature": [
+                0.55611,
+                -0.39288
+            ],
+            "spectral_density": 0.661483,
+            "tokens_minted": 9334700.0,
+            "royalty_accrued_usd": 50000.0,
+            "prev_hash": "fda7178bc23410775c58c331cf2f9cb51375c368b2d09762066501807f38a7af",
+            "platform_breakdown": {
+                "Spotify": 143,
+                "YouTube_Music": 835,
+                "Apple_Music": 538,
+                "Social_Networks": 291,
+                "Direct_Sovereign_Stream": 149
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 1000000,
+            "block_hash": "34a3a2ec11f5b4020f7c5bac334efb42c48ade2e1bd729108b45de0f1412d796"
+        },
+        {
+            "index": 3,
+            "timestamp": "2026-10-14 17:31:18 UTC",
+            "track": "Lirios_Del_Sur_Decillion_Master.wav",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Arquitectura Records",
+            "quantum_signature": [
+                -0.89125,
+                0.81257
+            ],
+            "spectral_density": 0.449369,
+            "tokens_minted": 6662000.0,
+            "royalty_accrued_usd": 50000.0,
+            "prev_hash": "34a3a2ec11f5b4020f7c5bac334efb42c48ade2e1bd729108b45de0f1412d796",
+            "platform_breakdown": {
+                "Spotify": 682,
+                "YouTube_Music": 547,
+                "Apple_Music": 382,
+                "Social_Networks": 196,
+                "Direct_Sovereign_Stream": 156
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 1000000,
+            "block_hash": "2e3ba26f87411ff8fa435ea04b3f48edc20d96d6658b995acac585d47ef584ba"
+        },
+        {
+            "index": 4,
+            "timestamp": "2026-10-14 17:31:18 UTC",
+            "track": "No_me_ronquen.wav",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Arquitectura Records",
+            "quantum_signature": [
+                -0.74942,
+                -0.49398
+            ],
+            "spectral_density": 0.11342,
+            "tokens_minted": 2429100.0,
+            "royalty_accrued_usd": 50000.0,
+            "prev_hash": "2e3ba26f87411ff8fa435ea04b3f48edc20d96d6658b995acac585d47ef584ba",
+            "platform_breakdown": {
+                "Spotify": 180,
+                "YouTube_Music": 809,
+                "Apple_Music": 911,
+                "Social_Networks": 166,
+                "Direct_Sovereign_Stream": 290
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 1000000,
+            "block_hash": "c58f9c2a04bc9a6d44aa92b0681f97f2392126f51c378ce346a656fbc3a2726e"
+        },
+        {
+            "index": 5,
+            "timestamp": "2026-10-14 17:31:18 UTC",
+            "track": "Reversa.wav",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Arquitectura Records",
+            "quantum_signature": [
+                0.05614,
+                0.48523
+            ],
+            "spectral_density": 0.347228,
+            "tokens_minted": 5375100.0,
+            "royalty_accrued_usd": 50000.0,
+            "prev_hash": "c58f9c2a04bc9a6d44aa92b0681f97f2392126f51c378ce346a656fbc3a2726e",
+            "platform_breakdown": {
+                "Spotify": 238,
+                "YouTube_Music": 474,
+                "Apple_Music": 593,
+                "Social_Networks": 704,
+                "Direct_Sovereign_Stream": 262
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 1000000,
+            "block_hash": "39433aa3420f18182de801d29406887e3b70676ec622613ddf502d53483b7098"
+        },
+        {
+            "index": 6,
+            "timestamp": "2026-10-14 17:31:18 UTC",
+            "track": "Universitaria.wav",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Arquitectura Records",
+            "quantum_signature": [
+                0.37841,
+                -0.71939
+            ],
+            "spectral_density": 0.668147,
+            "tokens_minted": 9418700.0,
+            "royalty_accrued_usd": 50000.0,
+            "prev_hash": "39433aa3420f18182de801d29406887e3b70676ec622613ddf502d53483b7098",
+            "platform_breakdown": {
+                "Spotify": 127,
+                "YouTube_Music": 585,
+                "Apple_Music": 290,
+                "Social_Networks": 749,
+                "Direct_Sovereign_Stream": 635
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 1000000,
+            "block_hash": "ac5d9241f89f1e40383130978b128593ff79dd69ba26a0113629470fc869de75"
+        },
+        {
+            "index": 7,
+            "timestamp": "2026-10-14 18:38:10 UTC",
+            "track": "Soberania_Cero.wav",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.72434,
+                0.36544
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.566988,
+            "tokens_minted": 8144000.0,
+            "royalty_accrued_usd": 50000.0,
+            "prev_hash": "ac5d9241f89f1e40383130978b128593ff79dd69ba26a0113629470fc869de75",
+            "platform_breakdown": {
+                "Spotify": 302,
+                "YouTube_Music": 574,
+                "Apple_Music": 516,
+                "Social_Networks": 529,
+                "Direct_Sovereign_Stream": 524
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 1000000,
+            "block_hash": "f244d21221192a1c0e2568628358ce687a2bb015472b2d77aa4d7b90b5d4feb0"
+        },
+        {
+            "index": 8,
+            "timestamp": "2026-10-14 18:42:15 UTC",
+            "track": "LEGADO_VETERANO_GENESIS.wav",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.1182,
+                -0.19827
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.707931,
+            "tokens_minted": 9919900.0,
+            "royalty_accrued_usd": 50000.0,
+            "prev_hash": "f244d21221192a1c0e2568628358ce687a2bb015472b2d77aa4d7b90b5d4feb0",
+            "era_temporal": "ERA_VETERANO_ORIGEN",
+            "comando_vinculado": "COMANDO_RAIZ_VETERANO",
+            "platform_breakdown": {
+                "Spotify": 694,
+                "YouTube_Music": 176,
+                "Apple_Music": 697,
+                "Social_Networks": 851,
+                "Direct_Sovereign_Stream": 339
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 1000000,
+            "block_hash": "ead72fe16ebdddea2ba276300a50dfea3b2d7c774fe637ad31b0eb3294d1c699"
+        },
+        {
+            "index": 9,
+            "timestamp": "2026-10-14 18:42:15 UTC",
+            "track": "2000_NAVES.wav",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.12297,
+                0.45449
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.621495,
+            "tokens_minted": 8830800.0,
+            "royalty_accrued_usd": 50000.0,
+            "prev_hash": "ead72fe16ebdddea2ba276300a50dfea3b2d7c774fe637ad31b0eb3294d1c699",
+            "era_temporal": "ERA_SOBERANA_ACTUAL",
+            "comando_vinculado": "EXEC_2000_NAVES",
+            "platform_breakdown": {
+                "Spotify": 234,
+                "YouTube_Music": 888,
+                "Apple_Music": 436,
+                "Social_Networks": 658,
+                "Direct_Sovereign_Stream": 460
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 1000000,
+            "block_hash": "81b25faa69380d1fa0601e337966c923b0b4a120845947ba706313f96a51b2d6"
+        },
+        {
+            "index": 10,
+            "timestamp": "2026-10-14 18:42:15 UTC",
+            "track": "MASTER_SOVEREIGN.wav",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.05648,
+                0.86794
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.573138,
+            "tokens_minted": 8221500.0,
+            "royalty_accrued_usd": 50000.0,
+            "prev_hash": "81b25faa69380d1fa0601e337966c923b0b4a120845947ba706313f96a51b2d6",
+            "era_temporal": "ERA_SOBERANA_ACTUAL",
+            "comando_vinculado": "EXEC_MASTER_SOVEREIGN",
+            "platform_breakdown": {
+                "Spotify": 777,
+                "YouTube_Music": 397,
+                "Apple_Music": 400,
+                "Social_Networks": 914,
+                "Direct_Sovereign_Stream": 791
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 1000000,
+            "block_hash": "276787b768ef407b345f24ad23659fd378fa916b269dee5a3b220b02376794c7"
+        },
+        {
+            "index": 11,
+            "timestamp": "2026-10-14 18:42:15 UTC",
+            "track": "BELIEVE_THAT_Master.wav",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.01407,
+                0.85903
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.652035,
+            "tokens_minted": 4607800.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "276787b768ef407b345f24ad23659fd378fa916b269dee5a3b220b02376794c7",
+            "era_temporal": "ERA_SOBERANA_ACTUAL",
+            "comando_vinculado": "EXEC_BELIEVE_THAT",
+            "platform_breakdown": {
+                "Spotify": 309,
+                "YouTube_Music": 152,
+                "Apple_Music": 372,
+                "Social_Networks": 463,
+                "Direct_Sovereign_Stream": 163
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "a4fd2ecf6678ab434c4a9754891a2fecdfc85e1281357661d66455b9b2f826e0"
+        },
+        {
+            "index": 12,
+            "timestamp": "2026-10-14 18:42:15 UTC",
+            "track": "I_AM_ACOBES_Master.wav",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.55088,
+                -0.94563
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.134177,
+            "tokens_minted": 1345300.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "a4fd2ecf6678ab434c4a9754891a2fecdfc85e1281357661d66455b9b2f826e0",
+            "era_temporal": "ERA_SOBERANA_ACTUAL",
+            "comando_vinculado": "EXEC_I_AM_ACOBES",
+            "platform_breakdown": {
+                "Spotify": 609,
+                "YouTube_Music": 696,
+                "Apple_Music": 367,
+                "Social_Networks": 267,
+                "Direct_Sovereign_Stream": 812
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "64b13c65e6405a750572b651371229ebae8a7a09907101fcef8cf1647053e126"
+        },
+        {
+            "index": 13,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "  IN THE MIRROR (633).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.43832,
+                -0.69442
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.631921,
+            "tokens_minted": 4481100.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "64b13c65e6405a750572b651371229ebae8a7a09907101fcef8cf1647053e126",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_  IN THE MIRROR (633).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/  IN THE MIRROR (633).mp3",
+            "platform_breakdown": {
+                "Spotify": 805,
+                "YouTube_Music": 692,
+                "Apple_Music": 942,
+                "Social_Networks": 721,
+                "Direct_Sovereign_Stream": 850
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "947a03891c39ff23178848ed0661d87a503af62ae0f92953a328f8c9c9e7dcf9"
+        },
+        {
+            "index": 14,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "### __Song Title___ _Trap de Caser\u00edo (La Ciencia del Sound)_ (1).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.5833,
+                -0.30754
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.142868,
+            "tokens_minted": 1400050.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "947a03891c39ff23178848ed0661d87a503af62ae0f92953a328f8c9c9e7dcf9",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_### __SONG TITLE___ _TRAP DE CASER\u00cdO (LA CIENCIA DEL SOUND)_ (1).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/### __Song Title___ _Trap de Caser\u00edo (La Ciencia del Sound)_ (1).mp3",
+            "platform_breakdown": {
+                "Spotify": 564,
+                "YouTube_Music": 594,
+                "Apple_Music": 310,
+                "Social_Networks": 409,
+                "Direct_Sovereign_Stream": 791
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "bf150555f136b858f50b1802bab2bfd675f5dce4d3d89702233c1d86655bed1b"
+        },
+        {
+            "index": 15,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "### __Song Title___ _Trap de Caser\u00edo (La Ciencia del Sound)_.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.08381,
+                -0.31493
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.852432,
+            "tokens_minted": 5870300.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "bf150555f136b858f50b1802bab2bfd675f5dce4d3d89702233c1d86655bed1b",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_### __SONG TITLE___ _TRAP DE CASER\u00cdO (LA CIENCIA DEL SOUND)_.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/### __Song Title___ _Trap de Caser\u00edo (La Ciencia del Sound)_.mp3",
+            "platform_breakdown": {
+                "Spotify": 289,
+                "YouTube_Music": 886,
+                "Apple_Music": 461,
+                "Social_Networks": 722,
+                "Direct_Sovereign_Stream": 805
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "5d1d48613ea6368ff6b28cbe738e5a34e91785ef6b1d07d7c78227a869fed72c"
+        },
+        {
+            "index": 16,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": ".mp3 (1).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.40003,
+                -0.55866
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.47142,
+            "tokens_minted": 3469950.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "5d1d48613ea6368ff6b28cbe738e5a34e91785ef6b1d07d7c78227a869fed72c",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_.MP3 (1).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/.mp3 (1).mp3",
+            "platform_breakdown": {
+                "Spotify": 525,
+                "YouTube_Music": 511,
+                "Apple_Music": 827,
+                "Social_Networks": 561,
+                "Direct_Sovereign_Stream": 936
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "18230abaf686a3ccb1bd908f99710c258187faf03b3ca0659513c5d18cfe439f"
+        },
+        {
+            "index": 17,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": ".mp3.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.73514,
+                -0.51687
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.71219,
+            "tokens_minted": 4986800.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "18230abaf686a3ccb1bd908f99710c258187faf03b3ca0659513c5d18cfe439f",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_.MP3.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/.mp3.mp3",
+            "platform_breakdown": {
+                "Spotify": 668,
+                "YouTube_Music": 782,
+                "Apple_Music": 902,
+                "Social_Networks": 669,
+                "Direct_Sovereign_Stream": 484
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "9b0462e5a2009250c9ed3da68eaf63ad3cc606c93f73059c899f17ba0c798463"
+        },
+        {
+            "index": 18,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "7 AM in Puerto Rico.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.93507,
+                0.15787
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.794829,
+            "tokens_minted": 5507400.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "9b0462e5a2009250c9ed3da68eaf63ad3cc606c93f73059c899f17ba0c798463",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_7 AM IN PUERTO RICO.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/7 AM in Puerto Rico.mp3",
+            "platform_breakdown": {
+                "Spotify": 812,
+                "YouTube_Music": 356,
+                "Apple_Music": 809,
+                "Social_Networks": 174,
+                "Direct_Sovereign_Stream": 360
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "44bb4bb6f878410c3146a8b3a639e3e266986d475e8d1524f6dd87bf1b51472d"
+        },
+        {
+            "index": 19,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Acobes For President (Reggaeton Road Mix).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -1.05788,
+                -0.09262
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.598262,
+            "tokens_minted": 4269050.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "44bb4bb6f878410c3146a8b3a639e3e266986d475e8d1524f6dd87bf1b51472d",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_ACOBES FOR PRESIDENT (REGGAETON ROAD MIX).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Acobes For President (Reggaeton Road Mix).mp3",
+            "platform_breakdown": {
+                "Spotify": 263,
+                "YouTube_Music": 804,
+                "Apple_Music": 556,
+                "Social_Networks": 828,
+                "Direct_Sovereign_Stream": 782
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "a034a6023cbf54f7cacff3e1b95f42f182dad636cbea127e6c10e5032faa6897"
+        },
+        {
+            "index": 20,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Acobes_Anomalia_808.wav",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.59127,
+                0.37109
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.87303,
+            "tokens_minted": 6000100.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "a034a6023cbf54f7cacff3e1b95f42f182dad636cbea127e6c10e5032faa6897",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_ACOBES_ANOMALIA_808.WAV",
+            "ruta_origen": "/storage/emulated/0/Download/Acobes_Anomalia_808.wav",
+            "platform_breakdown": {
+                "Spotify": 427,
+                "YouTube_Music": 769,
+                "Apple_Music": 272,
+                "Social_Networks": 880,
+                "Direct_Sovereign_Stream": 834
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "4dacca6e936e72b9322c347964d3e007c9a27ab56606ac7efce4793f55e3e03f"
+        },
+        {
+            "index": 21,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Air-Gap _ 300 AA (1).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.33111,
+                -0.11372
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.868823,
+            "tokens_minted": 5973600.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "4dacca6e936e72b9322c347964d3e007c9a27ab56606ac7efce4793f55e3e03f",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_AIR-GAP _ 300 AA (1).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Air-Gap _ 300 AA (1).mp3",
+            "platform_breakdown": {
+                "Spotify": 317,
+                "YouTube_Music": 820,
+                "Apple_Music": 660,
+                "Social_Networks": 604,
+                "Direct_Sovereign_Stream": 846
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "4fb11ac6d7172e71ab42295bc1c241a8cefa1d761c7124257d50318430949989"
+        },
+        {
+            "index": 22,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Air-Gap _ 300 AA.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.41687,
+                -0.30086
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.406784,
+            "tokens_minted": 3062750.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "4fb11ac6d7172e71ab42295bc1c241a8cefa1d761c7124257d50318430949989",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_AIR-GAP _ 300 AA.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Air-Gap _ 300 AA.mp3",
+            "platform_breakdown": {
+                "Spotify": 235,
+                "YouTube_Music": 933,
+                "Apple_Music": 390,
+                "Social_Networks": 767,
+                "Direct_Sovereign_Stream": 718
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "216ff0cf58589434bb28be161849fe427b3eb9eeff0297c617112f81b4078bdf"
+        },
+        {
+            "index": 23,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Alqaeda en la Zona.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.07392,
+                -0.60115
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.556071,
+            "tokens_minted": 4003250.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "216ff0cf58589434bb28be161849fe427b3eb9eeff0297c617112f81b4078bdf",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_ALQAEDA EN LA ZONA.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Alqaeda en la Zona.mp3",
+            "platform_breakdown": {
+                "Spotify": 678,
+                "YouTube_Music": 326,
+                "Apple_Music": 169,
+                "Social_Networks": 337,
+                "Direct_Sovereign_Stream": 325
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "7c57795da78b3c49e5316c1aab019b8f72e666569dd1720115bfbec3a2e34156"
+        },
+        {
+            "index": 24,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Apellido de la Noche.m4a",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.85883,
+                0.79756
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.291374,
+            "tokens_minted": 2335650.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "7c57795da78b3c49e5316c1aab019b8f72e666569dd1720115bfbec3a2e34156",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_APELLIDO DE LA NOCHE.M4A",
+            "ruta_origen": "/storage/emulated/0/Download/Apellido de la Noche.m4a",
+            "platform_breakdown": {
+                "Spotify": 541,
+                "YouTube_Music": 481,
+                "Apple_Music": 132,
+                "Social_Networks": 738,
+                "Direct_Sovereign_Stream": 418
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "392eb319d9484eaa13a9bac3a8655961361d37e31e9c8ac90d2f8cce085aaefe"
+        },
+        {
+            "index": 25,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Apellido de la Noche.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.71895,
+                0.32212
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.44605,
+            "tokens_minted": 3310100.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "392eb319d9484eaa13a9bac3a8655961361d37e31e9c8ac90d2f8cce085aaefe",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_APELLIDO DE LA NOCHE.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Apellido de la Noche.mp3",
+            "platform_breakdown": {
+                "Spotify": 191,
+                "YouTube_Music": 578,
+                "Apple_Music": 522,
+                "Social_Networks": 268,
+                "Direct_Sovereign_Stream": 733
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "853bd09ab700e6709341703715b9631532a306101c1affdf22979cfd24a082f7"
+        },
+        {
+            "index": 26,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Arquitectura Records.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.92643,
+                0.25478
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.787039,
+            "tokens_minted": 5458350.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "853bd09ab700e6709341703715b9631532a306101c1affdf22979cfd24a082f7",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_ARQUITECTURA RECORDS.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Arquitectura Records.mp3",
+            "platform_breakdown": {
+                "Spotify": 242,
+                "YouTube_Music": 221,
+                "Apple_Music": 165,
+                "Social_Networks": 608,
+                "Direct_Sovereign_Stream": 839
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "4df071cdcf73d1322168f3b0a0b8566c37e61195718462a9a371a82036ae3c89"
+        },
+        {
+            "index": 27,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Berry 9.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.52982,
+                0.65245
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.628971,
+            "tokens_minted": 4462500.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "4df071cdcf73d1322168f3b0a0b8566c37e61195718462a9a371a82036ae3c89",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_BERRY 9.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Berry 9.mp3",
+            "platform_breakdown": {
+                "Spotify": 511,
+                "YouTube_Music": 352,
+                "Apple_Music": 568,
+                "Social_Networks": 895,
+                "Direct_Sovereign_Stream": 520
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "1c7475854d71beaea958fde6669f8bb7389c9e54ab32429e41c00e9a559c347c"
+        },
+        {
+            "index": 28,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Beyond Olofin.m4a",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.4341,
+                -0.90625
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.614026,
+            "tokens_minted": 4368350.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "1c7475854d71beaea958fde6669f8bb7389c9e54ab32429e41c00e9a559c347c",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_BEYOND OLOFIN.M4A",
+            "ruta_origen": "/storage/emulated/0/Download/Beyond Olofin.m4a",
+            "platform_breakdown": {
+                "Spotify": 313,
+                "YouTube_Music": 442,
+                "Apple_Music": 639,
+                "Social_Networks": 538,
+                "Direct_Sovereign_Stream": 294
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "30031d0aa8254c010f22ffdd13566b4733742a1132e26b0fe3a4202144dec94b"
+        },
+        {
+            "index": 29,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Cambio el Tablero.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.26327,
+                0.23842
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.717119,
+            "tokens_minted": 5017850.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "30031d0aa8254c010f22ffdd13566b4733742a1132e26b0fe3a4202144dec94b",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_CAMBIO EL TABLERO.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Cambio el Tablero.mp3",
+            "platform_breakdown": {
+                "Spotify": 463,
+                "YouTube_Music": 355,
+                "Apple_Music": 620,
+                "Social_Networks": 637,
+                "Direct_Sovereign_Stream": 573
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "79a92400ba3a5e6563279b02d808d830282aff2b5a060d4da01cd627cff97040"
+        },
+        {
+            "index": 30,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Consciousness Plane.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.76872,
+                -0.76151
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.254166,
+            "tokens_minted": 2101250.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "79a92400ba3a5e6563279b02d808d830282aff2b5a060d4da01cd627cff97040",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_CONSCIOUSNESS PLANE.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Consciousness Plane.mp3",
+            "platform_breakdown": {
+                "Spotify": 625,
+                "YouTube_Music": 435,
+                "Apple_Music": 350,
+                "Social_Networks": 375,
+                "Direct_Sovereign_Stream": 497
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "3e13f4336b2386b13dd2bf41f9ea9eefb4fc95df6c2fac01767a2ed04bb6c7f1"
+        },
+        {
+            "index": 31,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "C\u00d3DIGO ADVENTISTA 2.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.16959,
+                0.92868
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.485117,
+            "tokens_minted": 3556250.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "3e13f4336b2386b13dd2bf41f9ea9eefb4fc95df6c2fac01767a2ed04bb6c7f1",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_C\u00d3DIGO ADVENTISTA 2.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/C\u00d3DIGO ADVENTISTA 2.mp3",
+            "platform_breakdown": {
+                "Spotify": 569,
+                "YouTube_Music": 882,
+                "Apple_Music": 836,
+                "Social_Networks": 171,
+                "Direct_Sovereign_Stream": 278
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "fe11928fe983012c30fcc9298185c2bffcc358f50b5106bb1262dc5a62cb2e75"
+        },
+        {
+            "index": 32,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Dale Virgencita.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.00669,
+                -0.89511
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.558009,
+            "tokens_minted": 4015450.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "fe11928fe983012c30fcc9298185c2bffcc358f50b5106bb1262dc5a62cb2e75",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_DALE VIRGENCITA.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Dale Virgencita.mp3",
+            "platform_breakdown": {
+                "Spotify": 832,
+                "YouTube_Music": 493,
+                "Apple_Music": 591,
+                "Social_Networks": 330,
+                "Direct_Sovereign_Stream": 390
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "aecea7f77a91d08a8992782835692730dc8f3422f01c7b7533aa7c1c6b0cd4db"
+        },
+        {
+            "index": 33,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Davisito  (Remix).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.34745,
+                -0.74288
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.81388,
+            "tokens_minted": 5627450.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "aecea7f77a91d08a8992782835692730dc8f3422f01c7b7533aa7c1c6b0cd4db",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_DAVISITO  (REMIX).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Davisito  (Remix).mp3",
+            "platform_breakdown": {
+                "Spotify": 842,
+                "YouTube_Music": 792,
+                "Apple_Music": 172,
+                "Social_Networks": 364,
+                "Direct_Sovereign_Stream": 250
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "bceabe5dad060aba99912606ef7543392ef70f5fec1e6630065c8a82eb6b55b3"
+        },
+        {
+            "index": 34,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Dead in the Eyes.m4a",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.58084,
+                0.739
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.686368,
+            "tokens_minted": 4824100.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "bceabe5dad060aba99912606ef7543392ef70f5fec1e6630065c8a82eb6b55b3",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_DEAD IN THE EYES.M4A",
+            "ruta_origen": "/storage/emulated/0/Download/Dead in the Eyes.m4a",
+            "platform_breakdown": {
+                "Spotify": 949,
+                "YouTube_Music": 706,
+                "Apple_Music": 553,
+                "Social_Networks": 728,
+                "Direct_Sovereign_Stream": 257
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "d15870af110610f0229220fd4e51fbc329cb57724ee00bd550ada06a27e37e45"
+        },
+        {
+            "index": 35,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Dead in the Eyes.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.67757,
+                0.80357
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.72026,
+            "tokens_minted": 5037650.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "d15870af110610f0229220fd4e51fbc329cb57724ee00bd550ada06a27e37e45",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_DEAD IN THE EYES.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Dead in the Eyes.mp3",
+            "platform_breakdown": {
+                "Spotify": 277,
+                "YouTube_Music": 930,
+                "Apple_Music": 272,
+                "Social_Networks": 517,
+                "Direct_Sovereign_Stream": 180
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "4afa6c944860ebb6cbda205187d949055d20b741323ed88f7beaaf643beb3cc2"
+        },
+        {
+            "index": 36,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Drake in that seat.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.79204,
+                -0.91713
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.290946,
+            "tokens_minted": 2332950.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "4afa6c944860ebb6cbda205187d949055d20b741323ed88f7beaaf643beb3cc2",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_DRAKE IN THAT SEAT.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Drake in that seat.mp3",
+            "platform_breakdown": {
+                "Spotify": 129,
+                "YouTube_Music": 570,
+                "Apple_Music": 393,
+                "Social_Networks": 854,
+                "Direct_Sovereign_Stream": 208
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "5f0fb087ec691b7074d1e711ea7805e9e3597a2cb5cd7aad7a8c9ce3e10e3edb"
+        },
+        {
+            "index": 37,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "El Arquitecto (1).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.19052,
+                -0.44821
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.709687,
+            "tokens_minted": 4971050.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "5f0fb087ec691b7074d1e711ea7805e9e3597a2cb5cd7aad7a8c9ce3e10e3edb",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_EL ARQUITECTO (1).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/El Arquitecto (1).mp3",
+            "platform_breakdown": {
+                "Spotify": 372,
+                "YouTube_Music": 745,
+                "Apple_Music": 772,
+                "Social_Networks": 739,
+                "Direct_Sovereign_Stream": 731
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "ae367040483eb5d374f2e63cd965822479f7c555bdd6561378c656307583a5ad"
+        },
+        {
+            "index": 38,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "El Arquitecto (2).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.5208,
+                -0.36494
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.880233,
+            "tokens_minted": 6045450.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "ae367040483eb5d374f2e63cd965822479f7c555bdd6561378c656307583a5ad",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_EL ARQUITECTO (2).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/El Arquitecto (2).mp3",
+            "platform_breakdown": {
+                "Spotify": 911,
+                "YouTube_Music": 476,
+                "Apple_Music": 223,
+                "Social_Networks": 380,
+                "Direct_Sovereign_Stream": 873
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "af1503a9d362f7586609906318d56b50b405804d14d52d7542a25cb6d88dfb96"
+        },
+        {
+            "index": 39,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "El Arquitecto (3).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.82214,
+                -0.79476
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.663552,
+            "tokens_minted": 4680400.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "af1503a9d362f7586609906318d56b50b405804d14d52d7542a25cb6d88dfb96",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_EL ARQUITECTO (3).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/El Arquitecto (3).mp3",
+            "platform_breakdown": {
+                "Spotify": 125,
+                "YouTube_Music": 782,
+                "Apple_Music": 908,
+                "Social_Networks": 765,
+                "Direct_Sovereign_Stream": 325
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "a706aaec4e33da0d3bb2fd2fdb9ad15629c835c9be6f7afd1acf2f99aa2538c8"
+        },
+        {
+            "index": 40,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "El Arquitecto Eterno.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.18986,
+                -0.64704
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.295277,
+            "tokens_minted": 2360250.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "a706aaec4e33da0d3bb2fd2fdb9ad15629c835c9be6f7afd1acf2f99aa2538c8",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_EL ARQUITECTO ETERNO.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/El Arquitecto Eterno.mp3",
+            "platform_breakdown": {
+                "Spotify": 392,
+                "YouTube_Music": 367,
+                "Apple_Music": 663,
+                "Social_Networks": 186,
+                "Direct_Sovereign_Stream": 131
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "da7faa9a2038a83214d3de243a25e35e065121ca653325ea35571d21ef452f16"
+        },
+        {
+            "index": 41,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "El Arquitecto.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.56698,
+                -0.88389
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.337954,
+            "tokens_minted": 2629100.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "da7faa9a2038a83214d3de243a25e35e065121ca653325ea35571d21ef452f16",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_EL ARQUITECTO.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/El Arquitecto.mp3",
+            "platform_breakdown": {
+                "Spotify": 266,
+                "YouTube_Music": 720,
+                "Apple_Music": 762,
+                "Social_Networks": 841,
+                "Direct_Sovereign_Stream": 778
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "a7472e2900bc87f395e69626bebdd1bdbca25a3a3fba7a17a312015cc6377d26"
+        },
+        {
+            "index": 42,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "El Destino dio Play.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.63151,
+                -0.26433
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.431257,
+            "tokens_minted": 3216900.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "a7472e2900bc87f395e69626bebdd1bdbca25a3a3fba7a17a312015cc6377d26",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_EL DESTINO DIO PLAY.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/El Destino dio Play.mp3",
+            "platform_breakdown": {
+                "Spotify": 859,
+                "YouTube_Music": 714,
+                "Apple_Music": 605,
+                "Social_Networks": 260,
+                "Direct_Sovereign_Stream": 656
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "d6a038f08e8439d692e3e234aec1ae6ecb9b9386448cc73b414bde491e59ffc2"
+        },
+        {
+            "index": 43,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "El Elegido.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.35215,
+                0.00013
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.495823,
+            "tokens_minted": 3623700.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "d6a038f08e8439d692e3e234aec1ae6ecb9b9386448cc73b414bde491e59ffc2",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_EL ELEGIDO.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/El Elegido.mp3",
+            "platform_breakdown": {
+                "Spotify": 507,
+                "YouTube_Music": 944,
+                "Apple_Music": 300,
+                "Social_Networks": 928,
+                "Direct_Sovereign_Stream": 162
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "0b682c604ba2f10af3b118c1666bdd8043c8657c4ffb4e32d76815d15984da2b"
+        },
+        {
+            "index": 44,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "El Motor Cu\u00e1ntico.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.54962,
+                -0.17755
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.72305,
+            "tokens_minted": 5055200.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "0b682c604ba2f10af3b118c1666bdd8043c8657c4ffb4e32d76815d15984da2b",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_EL MOTOR CU\u00c1NTICO.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/El Motor Cu\u00e1ntico.mp3",
+            "platform_breakdown": {
+                "Spotify": 830,
+                "YouTube_Music": 180,
+                "Apple_Music": 797,
+                "Social_Networks": 194,
+                "Direct_Sovereign_Stream": 737
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "d9aeaba72c55afdcf6618b213aea10ec1a1430066d51651caacef9b97087863a"
+        },
+        {
+            "index": 45,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "El Soberano Tranquilo (1).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.74034,
+                -0.49772
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.155746,
+            "tokens_minted": 1481200.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "d9aeaba72c55afdcf6618b213aea10ec1a1430066d51651caacef9b97087863a",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_EL SOBERANO TRANQUILO (1).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/El Soberano Tranquilo (1).mp3",
+            "platform_breakdown": {
+                "Spotify": 326,
+                "YouTube_Music": 921,
+                "Apple_Music": 751,
+                "Social_Networks": 716,
+                "Direct_Sovereign_Stream": 541
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "ef089bf6f6807d604ef958d43f1f8b7d328ce2db9c528a67e047b7c08fb60b1c"
+        },
+        {
+            "index": 46,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "El Soberano Tranquilo.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.05795,
+                -0.44578
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.539706,
+            "tokens_minted": 3900150.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "ef089bf6f6807d604ef958d43f1f8b7d328ce2db9c528a67e047b7c08fb60b1c",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_EL SOBERANO TRANQUILO.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/El Soberano Tranquilo.mp3",
+            "platform_breakdown": {
+                "Spotify": 246,
+                "YouTube_Music": 922,
+                "Apple_Music": 872,
+                "Social_Networks": 938,
+                "Direct_Sovereign_Stream": 214
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "e7144d16ad04adeb7957ac0dda57cbef88d2dbd29f8fa270f2147243309361c1"
+        },
+        {
+            "index": 47,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Father Pedro (1).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.38517,
+                -0.07782
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.528158,
+            "tokens_minted": 3827400.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "e7144d16ad04adeb7957ac0dda57cbef88d2dbd29f8fa270f2147243309361c1",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_FATHER PEDRO (1).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Father Pedro (1).mp3",
+            "platform_breakdown": {
+                "Spotify": 178,
+                "YouTube_Music": 310,
+                "Apple_Music": 687,
+                "Social_Networks": 627,
+                "Direct_Sovereign_Stream": 721
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "182bd9a454a636f2d49df6cb80deab4c54c118fff4db5a0dad8f4173a951f79b"
+        },
+        {
+            "index": 48,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Father Pedro.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.59556,
+                -0.30352
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.855249,
+            "tokens_minted": 5888050.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "182bd9a454a636f2d49df6cb80deab4c54c118fff4db5a0dad8f4173a951f79b",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_FATHER PEDRO.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Father Pedro.mp3",
+            "platform_breakdown": {
+                "Spotify": 668,
+                "YouTube_Music": 619,
+                "Apple_Music": 372,
+                "Social_Networks": 591,
+                "Direct_Sovereign_Stream": 367
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "e616bb880eec3450378c0796efda0a215b1a78d44351b3cce2523a2d1c898b18"
+        },
+        {
+            "index": 49,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Frecuencia Pesada (1).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.49653,
+                -0.22974
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.667854,
+            "tokens_minted": 4707500.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "e616bb880eec3450378c0796efda0a215b1a78d44351b3cce2523a2d1c898b18",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_FRECUENCIA PESADA (1).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Frecuencia Pesada (1).mp3",
+            "platform_breakdown": {
+                "Spotify": 635,
+                "YouTube_Music": 511,
+                "Apple_Music": 649,
+                "Social_Networks": 919,
+                "Direct_Sovereign_Stream": 835
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "a39b74aa7e4673dc1a70b505984d6edacec242564f56f14f8576736583c68bd3"
+        },
+        {
+            "index": 50,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Frecuencia Pesada.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.66771,
+                0.99997
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.648848,
+            "tokens_minted": 4587750.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "a39b74aa7e4673dc1a70b505984d6edacec242564f56f14f8576736583c68bd3",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_FRECUENCIA PESADA.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Frecuencia Pesada.mp3",
+            "platform_breakdown": {
+                "Spotify": 781,
+                "YouTube_Music": 268,
+                "Apple_Music": 363,
+                "Social_Networks": 466,
+                "Direct_Sovereign_Stream": 321
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "3413bc59c49b7021c76fbb5c94bcc860eb610d0016aa28b985b85f908a1b1eee"
+        },
+        {
+            "index": 51,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "GAME OVER.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.23331,
+                -0.61614
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.836923,
+            "tokens_minted": 5772600.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "3413bc59c49b7021c76fbb5c94bcc860eb610d0016aa28b985b85f908a1b1eee",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_GAME OVER.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/GAME OVER.mp3",
+            "platform_breakdown": {
+                "Spotify": 314,
+                "YouTube_Music": 522,
+                "Apple_Music": 668,
+                "Social_Networks": 202,
+                "Direct_Sovereign_Stream": 672
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "abc49a1a78bd30321b5d0dc2690e36c2efe44a9e13529d237f15a190e1ec1dd0"
+        },
+        {
+            "index": 52,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Going Back to the Basics.m4a",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.55029,
+                -0.88151
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.799553,
+            "tokens_minted": 5537200.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "abc49a1a78bd30321b5d0dc2690e36c2efe44a9e13529d237f15a190e1ec1dd0",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_GOING BACK TO THE BASICS.M4A",
+            "ruta_origen": "/storage/emulated/0/Download/Going Back to the Basics.m4a",
+            "platform_breakdown": {
+                "Spotify": 866,
+                "YouTube_Music": 836,
+                "Apple_Music": 571,
+                "Social_Networks": 846,
+                "Direct_Sovereign_Stream": 790
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "c4555ff45793d75af0c50114fe9cacbf7a92dba2710be30285df2c8a25ce66b6"
+        },
+        {
+            "index": 53,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Going Back to the Basics.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.1676,
+                0.92542
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.767701,
+            "tokens_minted": 5336500.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "c4555ff45793d75af0c50114fe9cacbf7a92dba2710be30285df2c8a25ce66b6",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_GOING BACK TO THE BASICS.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Going Back to the Basics.mp3",
+            "platform_breakdown": {
+                "Spotify": 167,
+                "YouTube_Music": 908,
+                "Apple_Music": 878,
+                "Social_Networks": 900,
+                "Direct_Sovereign_Stream": 687
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "eb4cdbb370e891bf66e1293aee94dedae53ea651c845961e5dfd879b3bcaa4b4"
+        },
+        {
+            "index": 54,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "HECAH Piloteando.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.18907,
+                0.57737
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.411553,
+            "tokens_minted": 3092800.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "eb4cdbb370e891bf66e1293aee94dedae53ea651c845961e5dfd879b3bcaa4b4",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_HECAH PILOTEANDO.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/HECAH Piloteando.mp3",
+            "platform_breakdown": {
+                "Spotify": 838,
+                "YouTube_Music": 381,
+                "Apple_Music": 818,
+                "Social_Networks": 241,
+                "Direct_Sovereign_Stream": 595
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "2f030177797b9b4358fcf4923de803f42ff6920304839df2068a3d4f077e546c"
+        },
+        {
+            "index": 55,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Hemisferios Conectados.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.67976,
+                -0.32074
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.362495,
+            "tokens_minted": 2783700.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "2f030177797b9b4358fcf4923de803f42ff6920304839df2068a3d4f077e546c",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_HEMISFERIOS CONECTADOS.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Hemisferios Conectados.mp3",
+            "platform_breakdown": {
+                "Spotify": 681,
+                "YouTube_Music": 930,
+                "Apple_Music": 182,
+                "Social_Networks": 871,
+                "Direct_Sovereign_Stream": 895
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "13ffca9bc896a89cdb84b794882c14fe98312513032948e47fbfcb4ff44107f4"
+        },
+        {
+            "index": 56,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Her Name Is Meg.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.7566,
+                0.37994
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.374739,
+            "tokens_minted": 2860850.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "13ffca9bc896a89cdb84b794882c14fe98312513032948e47fbfcb4ff44107f4",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_HER NAME IS MEG.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Her Name Is Meg.mp3",
+            "platform_breakdown": {
+                "Spotify": 765,
+                "YouTube_Music": 353,
+                "Apple_Music": 898,
+                "Social_Networks": 216,
+                "Direct_Sovereign_Stream": 133
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "e8cdacc06403c4fa09b1655415a6de095713a911d01fb5b664be6f7a537d56b9"
+        },
+        {
+            "index": 57,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Huele Bicho.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.74509,
+                -0.55862
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.377391,
+            "tokens_minted": 2877550.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "e8cdacc06403c4fa09b1655415a6de095713a911d01fb5b664be6f7a537d56b9",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_HUELE BICHO.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Huele Bicho.mp3",
+            "platform_breakdown": {
+                "Spotify": 584,
+                "YouTube_Music": 638,
+                "Apple_Music": 297,
+                "Social_Networks": 734,
+                "Direct_Sovereign_Stream": 418
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "1df170fd9255378fb40883a63bdc7b9df5de957ebbcc63eb5080455037166e06"
+        },
+        {
+            "index": 58,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "I Am Acobes.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.84286,
+                0.94067
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.329106,
+            "tokens_minted": 2573350.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "1df170fd9255378fb40883a63bdc7b9df5de957ebbcc63eb5080455037166e06",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_I AM ACOBES.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/I Am Acobes.mp3",
+            "platform_breakdown": {
+                "Spotify": 901,
+                "YouTube_Music": 490,
+                "Apple_Music": 462,
+                "Social_Networks": 405,
+                "Direct_Sovereign_Stream": 871
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "d35900633067d0b8beee578e53541629a118bb53db8fef5360bc7fc785075671"
+        },
+        {
+            "index": 59,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "I Believe I Can Fly III.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.77724,
+                0.7323
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.846094,
+            "tokens_minted": 5830400.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "d35900633067d0b8beee578e53541629a118bb53db8fef5360bc7fc785075671",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_I BELIEVE I CAN FLY III.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/I Believe I Can Fly III.mp3",
+            "platform_breakdown": {
+                "Spotify": 286,
+                "YouTube_Music": 818,
+                "Apple_Music": 212,
+                "Social_Networks": 741,
+                "Direct_Sovereign_Stream": 563
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "173cf8c53598fb47914a93b1111ecd00c390314b9980bd40e02fb379477579b2"
+        },
+        {
+            "index": 60,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Imperio de Cart\u00f3n.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.19062,
+                -0.49333
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.1199,
+            "tokens_minted": 1255350.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "173cf8c53598fb47914a93b1111ecd00c390314b9980bd40e02fb379477579b2",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_IMPERIO DE CART\u00d3N.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Imperio de Cart\u00f3n.mp3",
+            "platform_breakdown": {
+                "Spotify": 147,
+                "YouTube_Music": 901,
+                "Apple_Music": 913,
+                "Social_Networks": 345,
+                "Direct_Sovereign_Stream": 808
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "2448ede5f889b6bc628a2b56fa827119c04acd55816995290bfbf5e8bd3f42d7"
+        },
+        {
+            "index": 61,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Keep Throwing Tantrums.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.56177,
+                -0.46899
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.321699,
+            "tokens_minted": 2526700.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "2448ede5f889b6bc628a2b56fa827119c04acd55816995290bfbf5e8bd3f42d7",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_KEEP THROWING TANTRUMS.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Keep Throwing Tantrums.mp3",
+            "platform_breakdown": {
+                "Spotify": 487,
+                "YouTube_Music": 872,
+                "Apple_Music": 673,
+                "Social_Networks": 121,
+                "Direct_Sovereign_Stream": 899
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "771704b572340dffcbec0d87843569384db3a7d19b213d46ab4d0408dffcd509"
+        },
+        {
+            "index": 62,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "La Chiquita con el Coraz\u00f3n.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.16174,
+                0.24191
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.499329,
+            "tokens_minted": 3645750.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "771704b572340dffcbec0d87843569384db3a7d19b213d46ab4d0408dffcd509",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_LA CHIQUITA CON EL CORAZ\u00d3N.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/La Chiquita con el Coraz\u00f3n.mp3",
+            "platform_breakdown": {
+                "Spotify": 582,
+                "YouTube_Music": 569,
+                "Apple_Music": 685,
+                "Social_Networks": 438,
+                "Direct_Sovereign_Stream": 895
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "9a5075ab039acf782b11623b2b3ddbf390a238d84c60c0d4f178622cde74f496"
+        },
+        {
+            "index": 63,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "La L\u00ednea Temporal AA.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.78637,
+                -0.83033
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.218176,
+            "tokens_minted": 1874500.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "9a5075ab039acf782b11623b2b3ddbf390a238d84c60c0d4f178622cde74f496",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_LA L\u00cdNEA TEMPORAL AA.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/La L\u00ednea Temporal AA.mp3",
+            "platform_breakdown": {
+                "Spotify": 612,
+                "YouTube_Music": 331,
+                "Apple_Music": 771,
+                "Social_Networks": 654,
+                "Direct_Sovereign_Stream": 856
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "aa68a7f21f649c326c925c3f52cedf58ae92d49f7d8abd9aaba7cf5a5a1dc94f"
+        },
+        {
+            "index": 64,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "La Sensaci\u00f3n Eterna.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.536,
+                0.73208
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.655289,
+            "tokens_minted": 4628300.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "aa68a7f21f649c326c925c3f52cedf58ae92d49f7d8abd9aaba7cf5a5a1dc94f",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_LA SENSACI\u00d3N ETERNA.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/La Sensaci\u00f3n Eterna.mp3",
+            "platform_breakdown": {
+                "Spotify": 854,
+                "YouTube_Music": 627,
+                "Apple_Music": 672,
+                "Social_Networks": 549,
+                "Direct_Sovereign_Stream": 332
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "5fef02d4a921fba088c8fec7cd206a7318b4fc7c5e9d4eccaa6f62bcc65673ac"
+        },
+        {
+            "index": 65,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Lagos at Dusk.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.6474,
+                -0.15056
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.211219,
+            "tokens_minted": 1830700.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "5fef02d4a921fba088c8fec7cd206a7318b4fc7c5e9d4eccaa6f62bcc65673ac",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_LAGOS AT DUSK.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Lagos at Dusk.mp3",
+            "platform_breakdown": {
+                "Spotify": 322,
+                "YouTube_Music": 488,
+                "Apple_Music": 563,
+                "Social_Networks": 600,
+                "Direct_Sovereign_Stream": 622
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "b17cf9d86490e85439553cd4533fcd5ced0f04528841fe387ad4780df0bf23c3"
+        },
+        {
+            "index": 66,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Maolek Yu'.m4a",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.64609,
+                0.08409
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.861333,
+            "tokens_minted": 5926400.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "b17cf9d86490e85439553cd4533fcd5ced0f04528841fe387ad4780df0bf23c3",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_MAOLEK YU'.M4A",
+            "ruta_origen": "/storage/emulated/0/Download/Maolek Yu'.m4a",
+            "platform_breakdown": {
+                "Spotify": 166,
+                "YouTube_Music": 759,
+                "Apple_Music": 361,
+                "Social_Networks": 942,
+                "Direct_Sovereign_Stream": 574
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "557f236e0af75d139cafd4066785651df6f66fb6a3f67fcbe1386ba2f7d602ad"
+        },
+        {
+            "index": 67,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Meu Filho ChegouTrono.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.64948,
+                -0.75972
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.783194,
+            "tokens_minted": 5434100.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "557f236e0af75d139cafd4066785651df6f66fb6a3f67fcbe1386ba2f7d602ad",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_MEU FILHO CHEGOUTRONO.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Meu Filho ChegouTrono.mp3",
+            "platform_breakdown": {
+                "Spotify": 896,
+                "YouTube_Music": 512,
+                "Apple_Music": 456,
+                "Social_Networks": 695,
+                "Direct_Sovereign_Stream": 241
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "7fb181f59965cfabcfc27ece72deb03fc22fde48e17c106038728f42d9f1f43f"
+        },
+        {
+            "index": 68,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Mimi Suelta la Data (1).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.55474,
+                -0.44313
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.578148,
+            "tokens_minted": 4142350.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "7fb181f59965cfabcfc27ece72deb03fc22fde48e17c106038728f42d9f1f43f",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_MIMI SUELTA LA DATA (1).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Mimi Suelta la Data (1).mp3",
+            "platform_breakdown": {
+                "Spotify": 728,
+                "YouTube_Music": 827,
+                "Apple_Music": 805,
+                "Social_Networks": 509,
+                "Direct_Sovereign_Stream": 604
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "319b4bb60559f0b1fd91ff7486a6f2a782311145a1e73f5fb4c58f83ee466260"
+        },
+        {
+            "index": 69,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Mimi Suelta la Data.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.75276,
+                0.81657
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.762325,
+            "tokens_minted": 5302650.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "319b4bb60559f0b1fd91ff7486a6f2a782311145a1e73f5fb4c58f83ee466260",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_MIMI SUELTA LA DATA.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Mimi Suelta la Data.mp3",
+            "platform_breakdown": {
+                "Spotify": 133,
+                "YouTube_Music": 207,
+                "Apple_Music": 798,
+                "Social_Networks": 939,
+                "Direct_Sovereign_Stream": 663
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "44fb9e943849d65ffb54e04b0e52227389ffd30c08bc39e53b30811f91e04b98"
+        },
+        {
+            "index": 70,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Mimi la Reina.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.8508,
+                0.88841
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.50102,
+            "tokens_minted": 3656450.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "44fb9e943849d65ffb54e04b0e52227389ffd30c08bc39e53b30811f91e04b98",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_MIMI LA REINA.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Mimi la Reina.mp3",
+            "platform_breakdown": {
+                "Spotify": 402,
+                "YouTube_Music": 223,
+                "Apple_Music": 229,
+                "Social_Networks": 532,
+                "Direct_Sovereign_Stream": 360
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "1fb8bb5d82422aba886066eafbd81783cd502a964cfba407593cf5d59ef5c6d8"
+        },
+        {
+            "index": 71,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Mon Fils Est Arriv\u00e9.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.34807,
+                -0.16876
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.124774,
+            "tokens_minted": 1286100.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "1fb8bb5d82422aba886066eafbd81783cd502a964cfba407593cf5d59ef5c6d8",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_MON FILS EST ARRIV\u00c9.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Mon Fils Est Arriv\u00e9.mp3",
+            "platform_breakdown": {
+                "Spotify": 302,
+                "YouTube_Music": 297,
+                "Apple_Music": 337,
+                "Social_Networks": 706,
+                "Direct_Sovereign_Stream": 218
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "c2b8abf05d5c436bd2264e61af2c776fee35c2ce31f0e7c157b28bfffccdb8c1"
+        },
+        {
+            "index": 72,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "My Son Arrived.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.81627,
+                0.19107
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.682802,
+            "tokens_minted": 4801650.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "c2b8abf05d5c436bd2264e61af2c776fee35c2ce31f0e7c157b28bfffccdb8c1",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_MY SON ARRIVED.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/My Son Arrived.mp3",
+            "platform_breakdown": {
+                "Spotify": 475,
+                "YouTube_Music": 425,
+                "Apple_Music": 248,
+                "Social_Networks": 674,
+                "Direct_Sovereign_Stream": 781
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "b6dde12bf5d2c17c907d3bac386dd6c4cbe211e8f06d184c0ef12ef174ce2494"
+        },
+        {
+            "index": 73,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "NO RULES.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.10209,
+                -0.50946
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.242531,
+            "tokens_minted": 2027950.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "b6dde12bf5d2c17c907d3bac386dd6c4cbe211e8f06d184c0ef12ef174ce2494",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_NO RULES.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/NO RULES.mp3",
+            "platform_breakdown": {
+                "Spotify": 441,
+                "YouTube_Music": 861,
+                "Apple_Music": 710,
+                "Social_Networks": 523,
+                "Direct_Sovereign_Stream": 681
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "19c6b693bd87e327b39291e56db864067bb6602becd843afa900eda108f55f74"
+        },
+        {
+            "index": 74,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Nivel uno (Remix) (Remix) (Remix) (Remix).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.74027,
+                -0.41982
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.394983,
+            "tokens_minted": 2988400.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "19c6b693bd87e327b39291e56db864067bb6602becd843afa900eda108f55f74",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_NIVEL UNO (REMIX) (REMIX) (REMIX) (REMIX).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Nivel uno (Remix) (Remix) (Remix) (Remix).mp3",
+            "platform_breakdown": {
+                "Spotify": 642,
+                "YouTube_Music": 876,
+                "Apple_Music": 830,
+                "Social_Networks": 432,
+                "Direct_Sovereign_Stream": 342
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "f83c2439f6278f15b645eb82f29aaf4419c6630a96c7b72cf01b659b6988e5ac"
+        },
+        {
+            "index": 75,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Nivel uno (Remix) (Remix).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.52697,
+                0.71645
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.812442,
+            "tokens_minted": 5618400.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "f83c2439f6278f15b645eb82f29aaf4419c6630a96c7b72cf01b659b6988e5ac",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_NIVEL UNO (REMIX) (REMIX).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Nivel uno (Remix) (Remix).mp3",
+            "platform_breakdown": {
+                "Spotify": 940,
+                "YouTube_Music": 667,
+                "Apple_Music": 753,
+                "Social_Networks": 781,
+                "Direct_Sovereign_Stream": 477
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "b383bb7d5b12afb01b40723bf6d18f9924ff5b0cb1aeb5ad133c5dc3a8b83b31"
+        },
+        {
+            "index": 76,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "No hay Firma.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.9926,
+                0.6352
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.541401,
+            "tokens_minted": 3910850.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "b383bb7d5b12afb01b40723bf6d18f9924ff5b0cb1aeb5ad133c5dc3a8b83b31",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_NO HAY FIRMA.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/No hay Firma.mp3",
+            "platform_breakdown": {
+                "Spotify": 292,
+                "YouTube_Music": 776,
+                "Apple_Music": 165,
+                "Social_Networks": 534,
+                "Direct_Sovereign_Stream": 560
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "23684036e9fdedefee2c453ede164586689d5b6847612a2c2630012571f93f48"
+        },
+        {
+            "index": 77,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "No me ronquen - Peter Acobes (Official Video).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.47586,
+                -0.17945
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.416169,
+            "tokens_minted": 3121850.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "23684036e9fdedefee2c453ede164586689d5b6847612a2c2630012571f93f48",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_NO ME RONQUEN - PETER ACOBES (OFFICIAL VIDEO).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/No me ronquen - Peter Acobes (Official Video).mp3",
+            "platform_breakdown": {
+                "Spotify": 519,
+                "YouTube_Music": 839,
+                "Apple_Music": 375,
+                "Social_Networks": 300,
+                "Direct_Sovereign_Stream": 247
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "39d29d56c536d79d69a49485b56b3db749983f81477d4574de13bfa40bbb9e46"
+        },
+        {
+            "index": 78,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "OLOFIN BITCH .mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.62084,
+                -0.95438
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.608735,
+            "tokens_minted": 4335050.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "39d29d56c536d79d69a49485b56b3db749983f81477d4574de13bfa40bbb9e46",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_OLOFIN BITCH .MP3",
+            "ruta_origen": "/storage/emulated/0/Download/OLOFIN BITCH .mp3",
+            "platform_breakdown": {
+                "Spotify": 657,
+                "YouTube_Music": 457,
+                "Apple_Music": 925,
+                "Social_Networks": 681,
+                "Direct_Sovereign_Stream": 836
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "03f73bcdfde7cd55de4010c609f64a0360889300b9e342bab9bfd6ff0e95b83b"
+        },
+        {
+            "index": 79,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Omega at the Helm.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.87074,
+                -0.70485
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.177885,
+            "tokens_minted": 1620700.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "03f73bcdfde7cd55de4010c609f64a0360889300b9e342bab9bfd6ff0e95b83b",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_OMEGA AT THE HELM.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Omega at the Helm.mp3",
+            "platform_breakdown": {
+                "Spotify": 123,
+                "YouTube_Music": 902,
+                "Apple_Music": 444,
+                "Social_Networks": 250,
+                "Direct_Sovereign_Stream": 443
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "f4eb9fd00a75d67843a409292acf89ff7c610a79287561ca2e2232136456ac76"
+        },
+        {
+            "index": 80,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Omega descendi\u00f3.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.90745,
+                0.43379
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.792568,
+            "tokens_minted": 5493200.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "f4eb9fd00a75d67843a409292acf89ff7c610a79287561ca2e2232136456ac76",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_OMEGA DESCENDI\u00d3.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Omega descendi\u00f3.mp3",
+            "platform_breakdown": {
+                "Spotify": 485,
+                "YouTube_Music": 388,
+                "Apple_Music": 549,
+                "Social_Networks": 824,
+                "Direct_Sovereign_Stream": 386
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "9fe4a015dda197795657e66de200b8d358db8bcb5df9f9d80d3389c7a8ceaf6c"
+        },
+        {
+            "index": 81,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Sandra\u2019s Rose.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.48033,
+                0.75826
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.322309,
+            "tokens_minted": 2530550.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "9fe4a015dda197795657e66de200b8d358db8bcb5df9f9d80d3389c7a8ceaf6c",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_SANDRA\u2019S ROSE.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Sandra\u2019s Rose.mp3",
+            "platform_breakdown": {
+                "Spotify": 729,
+                "YouTube_Music": 168,
+                "Apple_Music": 722,
+                "Social_Networks": 835,
+                "Direct_Sovereign_Stream": 323
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "1eeb4673c77b2c0a061f2f24b2111ee9cbb3d8d40730894e8fa39cf27e2d6843"
+        },
+        {
+            "index": 82,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Soberano Libre (1).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.79485,
+                -0.1509
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.138949,
+            "tokens_minted": 1375400.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "1eeb4673c77b2c0a061f2f24b2111ee9cbb3d8d40730894e8fa39cf27e2d6843",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_SOBERANO LIBRE (1).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Soberano Libre (1).mp3",
+            "platform_breakdown": {
+                "Spotify": 647,
+                "YouTube_Music": 629,
+                "Apple_Music": 234,
+                "Social_Networks": 928,
+                "Direct_Sovereign_Stream": 435
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "29e72db9e868b63994b0fdcc81ae4640d1c48c73c68fc5ac10f306396df52598"
+        },
+        {
+            "index": 83,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Soberano Libre (2).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.50264,
+                -0.44204
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.767787,
+            "tokens_minted": 5337050.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "29e72db9e868b63994b0fdcc81ae4640d1c48c73c68fc5ac10f306396df52598",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_SOBERANO LIBRE (2).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Soberano Libre (2).mp3",
+            "platform_breakdown": {
+                "Spotify": 543,
+                "YouTube_Music": 540,
+                "Apple_Music": 752,
+                "Social_Networks": 814,
+                "Direct_Sovereign_Stream": 274
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "e081b8b27c85a76710458b4cc6859674a3d2378e2d07d28bf4da571fd077d427"
+        },
+        {
+            "index": 84,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Soberano Libre (3).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.19832,
+                -0.64589
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.179343,
+            "tokens_minted": 1629850.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "e081b8b27c85a76710458b4cc6859674a3d2378e2d07d28bf4da571fd077d427",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_SOBERANO LIBRE (3).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Soberano Libre (3).mp3",
+            "platform_breakdown": {
+                "Spotify": 466,
+                "YouTube_Music": 570,
+                "Apple_Music": 714,
+                "Social_Networks": 935,
+                "Direct_Sovereign_Stream": 557
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "5feabc5eba71c3d992684c3f8f24d0fe72132a06625227d9f6c1b9e0c61152d6"
+        },
+        {
+            "index": 85,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Soberano Libre.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.39284,
+                0.27078
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.781684,
+            "tokens_minted": 5424600.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "5feabc5eba71c3d992684c3f8f24d0fe72132a06625227d9f6c1b9e0c61152d6",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_SOBERANO LIBRE.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Soberano Libre.mp3",
+            "platform_breakdown": {
+                "Spotify": 682,
+                "YouTube_Music": 382,
+                "Apple_Music": 696,
+                "Social_Networks": 438,
+                "Direct_Sovereign_Stream": 924
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "d0f3ca71c18d5def182049a1d56a8a3e256525bf0540877743bcb29231ef2e53"
+        },
+        {
+            "index": 86,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Sophie Rain.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.71707,
+                0.66566
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.895118,
+            "tokens_minted": 6139250.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "d0f3ca71c18d5def182049a1d56a8a3e256525bf0540877743bcb29231ef2e53",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_SOPHIE RAIN.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Sophie Rain.mp3",
+            "platform_breakdown": {
+                "Spotify": 738,
+                "YouTube_Music": 636,
+                "Apple_Music": 700,
+                "Social_Networks": 353,
+                "Direct_Sovereign_Stream": 465
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "4fc0588185992389d3d3c73da87697586876fa53e61ff08d2e1e43fae68d954e"
+        },
+        {
+            "index": 87,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Soul Contract.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.29561,
+                0.4925
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.75058,
+            "tokens_minted": 5228650.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "4fc0588185992389d3d3c73da87697586876fa53e61ff08d2e1e43fae68d954e",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_SOUL CONTRACT.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Soul Contract.mp3",
+            "platform_breakdown": {
+                "Spotify": 218,
+                "YouTube_Music": 712,
+                "Apple_Music": 300,
+                "Social_Networks": 617,
+                "Direct_Sovereign_Stream": 281
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "52c6303704577cced643872fd64a2321c644fab9fbd65397965e0d676e567fa1"
+        },
+        {
+            "index": 88,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Sovereign Reality (75 BPM Drift).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.28968,
+                0.4173
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.356549,
+            "tokens_minted": 2746250.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "52c6303704577cced643872fd64a2321c644fab9fbd65397965e0d676e567fa1",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_SOVEREIGN REALITY (75 BPM DRIFT).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Sovereign Reality (75 BPM Drift).mp3",
+            "platform_breakdown": {
+                "Spotify": 222,
+                "YouTube_Music": 425,
+                "Apple_Music": 306,
+                "Social_Networks": 380,
+                "Direct_Sovereign_Stream": 784
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "8da60d335843ae147acf90d188fd1a5bfc04b64a2be396a31dd5ab9c631d7fa3"
+        },
+        {
+            "index": 89,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Sovereign of Our Own, Pt. II_ Infinite Dawn_[.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.1894,
+                -0.17191
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.432805,
+            "tokens_minted": 3226650.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "8da60d335843ae147acf90d188fd1a5bfc04b64a2be396a31dd5ab9c631d7fa3",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_SOVEREIGN OF OUR OWN, PT. II_ INFINITE DAWN_[.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Sovereign of Our Own, Pt. II_ Infinite Dawn_[.mp3",
+            "platform_breakdown": {
+                "Spotify": 549,
+                "YouTube_Music": 755,
+                "Apple_Music": 903,
+                "Social_Networks": 397,
+                "Direct_Sovereign_Stream": 155
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "ecbf69f17ebb5f03d027ef06657ed11eeb4594d300ca85dc11ed068dd5a6e0c7"
+        },
+        {
+            "index": 90,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Sube la Frecuencia.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.57722,
+                -0.84446
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.275361,
+            "tokens_minted": 2234750.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "ecbf69f17ebb5f03d027ef06657ed11eeb4594d300ca85dc11ed068dd5a6e0c7",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_SUBE LA FRECUENCIA.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Sube la Frecuencia.mp3",
+            "platform_breakdown": {
+                "Spotify": 521,
+                "YouTube_Music": 484,
+                "Apple_Music": 799,
+                "Social_Networks": 173,
+                "Direct_Sovereign_Stream": 359
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "62b8cb02a19d3b9936ef2b442473486549b877f02735b16087ef3adbe14d37aa"
+        },
+        {
+            "index": 91,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "The Adamus Protocol.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.03743,
+                0.92591
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.357582,
+            "tokens_minted": 2752750.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "62b8cb02a19d3b9936ef2b442473486549b877f02735b16087ef3adbe14d37aa",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_THE ADAMUS PROTOCOL.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/The Adamus Protocol.mp3",
+            "platform_breakdown": {
+                "Spotify": 620,
+                "YouTube_Music": 348,
+                "Apple_Music": 701,
+                "Social_Networks": 143,
+                "Direct_Sovereign_Stream": 272
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "a0b9ac06ba6ca07f8cc22689b1c552c7c6ebad062217e6fcb7501c51578db7a7"
+        },
+        {
+            "index": 92,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "The Architect.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.41396,
+                0.50641
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.357254,
+            "tokens_minted": 2750700.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "a0b9ac06ba6ca07f8cc22689b1c552c7c6ebad062217e6fcb7501c51578db7a7",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_THE ARCHITECT.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/The Architect.mp3",
+            "platform_breakdown": {
+                "Spotify": 525,
+                "YouTube_Music": 290,
+                "Apple_Music": 184,
+                "Social_Networks": 828,
+                "Direct_Sovereign_Stream": 635
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "c1b4adee16d479a4263cca5fe95ed048e50ffa71d769fa838aed2ed56370df70"
+        },
+        {
+            "index": 93,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "The Collective Knows (130 BPM Edit).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.71379,
+                -0.12994
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.561747,
+            "tokens_minted": 4039000.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "c1b4adee16d479a4263cca5fe95ed048e50ffa71d769fa838aed2ed56370df70",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_THE COLLECTIVE KNOWS (130 BPM EDIT).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/The Collective Knows (130 BPM Edit).mp3",
+            "platform_breakdown": {
+                "Spotify": 652,
+                "YouTube_Music": 818,
+                "Apple_Music": 599,
+                "Social_Networks": 245,
+                "Direct_Sovereign_Stream": 327
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "0338cfb554aa811548d2c1b95b8d85a99ff1b763c96cf6ff5a985f88755c2466"
+        },
+        {
+            "index": 94,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "The Collective Knows (Part 2) (Remix) (Remix).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.79352,
+                -0.70254
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.484804,
+            "tokens_minted": 3554250.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "0338cfb554aa811548d2c1b95b8d85a99ff1b763c96cf6ff5a985f88755c2466",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_THE COLLECTIVE KNOWS (PART 2) (REMIX) (REMIX).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/The Collective Knows (Part 2) (Remix) (Remix).mp3",
+            "platform_breakdown": {
+                "Spotify": 740,
+                "YouTube_Music": 865,
+                "Apple_Music": 859,
+                "Social_Networks": 325,
+                "Direct_Sovereign_Stream": 320
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "5ae75457ba36704ea26abcb64debadc5bf1e786e7d340a021e5add907da3dffe"
+        },
+        {
+            "index": 95,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "The Gates Are Open.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.14207,
+                -0.98573
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.455171,
+            "tokens_minted": 3367600.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "5ae75457ba36704ea26abcb64debadc5bf1e786e7d340a021e5add907da3dffe",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_THE GATES ARE OPEN.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/The Gates Are Open.mp3",
+            "platform_breakdown": {
+                "Spotify": 767,
+                "YouTube_Music": 220,
+                "Apple_Music": 555,
+                "Social_Networks": 590,
+                "Direct_Sovereign_Stream": 123
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "b85e78efab900bcee142f1ec5ad2eebb1f4216a3bb0d7ca24ef8faf57d31956e"
+        },
+        {
+            "index": 96,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "The Sovereign Stay Cool (1).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.38419,
+                -0.88516
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.310681,
+            "tokens_minted": 2457300.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "b85e78efab900bcee142f1ec5ad2eebb1f4216a3bb0d7ca24ef8faf57d31956e",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_THE SOVEREIGN STAY COOL (1).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/The Sovereign Stay Cool (1).mp3",
+            "platform_breakdown": {
+                "Spotify": 385,
+                "YouTube_Music": 639,
+                "Apple_Music": 644,
+                "Social_Networks": 172,
+                "Direct_Sovereign_Stream": 743
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "ea72ed30f7a705f474cb78812315d380c379ec7dde5b382de0bd6bb996bbe78f"
+        },
+        {
+            "index": 97,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "The Sovereign Stay Cool (2).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.80874,
+                0.40182
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.498821,
+            "tokens_minted": 3642550.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "ea72ed30f7a705f474cb78812315d380c379ec7dde5b382de0bd6bb996bbe78f",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_THE SOVEREIGN STAY COOL (2).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/The Sovereign Stay Cool (2).mp3",
+            "platform_breakdown": {
+                "Spotify": 431,
+                "YouTube_Music": 647,
+                "Apple_Music": 601,
+                "Social_Networks": 341,
+                "Direct_Sovereign_Stream": 123
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "e627e2a6de8dcee57425a92d6dd3d345c3a7e13beb5dc0d1e41c608207df9bef"
+        },
+        {
+            "index": 98,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "The Sovereign Stay Cool.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.17515,
+                0.49522
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.182034,
+            "tokens_minted": 1646800.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "e627e2a6de8dcee57425a92d6dd3d345c3a7e13beb5dc0d1e41c608207df9bef",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_THE SOVEREIGN STAY COOL.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/The Sovereign Stay Cool.mp3",
+            "platform_breakdown": {
+                "Spotify": 797,
+                "YouTube_Music": 140,
+                "Apple_Music": 334,
+                "Social_Networks": 576,
+                "Direct_Sovereign_Stream": 678
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "62444d071b80c74aca2d8d96109c3ae60cd08b81481a9c8bdb5685a0bda2b4f1"
+        },
+        {
+            "index": 99,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "The Work Goes On.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -1.07308,
+                0.30561
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.857117,
+            "tokens_minted": 5899850.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "62444d071b80c74aca2d8d96109c3ae60cd08b81481a9c8bdb5685a0bda2b4f1",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_THE WORK GOES ON.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/The Work Goes On.mp3",
+            "platform_breakdown": {
+                "Spotify": 754,
+                "YouTube_Music": 674,
+                "Apple_Music": 339,
+                "Social_Networks": 613,
+                "Direct_Sovereign_Stream": 332
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "76822f9e8641a6bb2457e80d7d6408781c46a6be442e7b2b2af7d4fcf1c4a55d"
+        },
+        {
+            "index": 100,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Threema Call.ogg",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.58067,
+                0.07247
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.514329,
+            "tokens_minted": 3740250.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "76822f9e8641a6bb2457e80d7d6408781c46a6be442e7b2b2af7d4fcf1c4a55d",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_THREEMA CALL.OGG",
+            "ruta_origen": "/storage/emulated/0/Notifications/Threema Call.ogg",
+            "platform_breakdown": {
+                "Spotify": 687,
+                "YouTube_Music": 854,
+                "Apple_Music": 657,
+                "Social_Networks": 184,
+                "Direct_Sovereign_Stream": 711
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "e7bb2128c88a4bd136db8d65b0f599793ca4311bf340ea1a3b9c92acf397c65d"
+        },
+        {
+            "index": 101,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Title_ 10 Moves Ahead.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.33985,
+                0.26027
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.390993,
+            "tokens_minted": 2963250.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "e7bb2128c88a4bd136db8d65b0f599793ca4311bf340ea1a3b9c92acf397c65d",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_TITLE_ 10 MOVES AHEAD.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Title_ 10 Moves Ahead.mp3",
+            "platform_breakdown": {
+                "Spotify": 548,
+                "YouTube_Music": 692,
+                "Apple_Music": 420,
+                "Social_Networks": 421,
+                "Direct_Sovereign_Stream": 625
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "9740a915edf0b3d1478bb098d2f588a0e96a7b5b53ddd38e30b1cbcc021aacfb"
+        },
+        {
+            "index": 102,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Title_ El Algoritmo (12 Modelos) (Remix).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.32523,
+                -0.36304
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.728673,
+            "tokens_minted": 5090650.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "9740a915edf0b3d1478bb098d2f588a0e96a7b5b53ddd38e30b1cbcc021aacfb",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_TITLE_ EL ALGORITMO (12 MODELOS) (REMIX).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Title_ El Algoritmo (12 Modelos) (Remix).mp3",
+            "platform_breakdown": {
+                "Spotify": 131,
+                "YouTube_Music": 546,
+                "Apple_Music": 520,
+                "Social_Networks": 595,
+                "Direct_Sovereign_Stream": 183
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "37c48d2da34ad82ebf38422dfe93ff57707b7f0db8de856921d65039057634ee"
+        },
+        {
+            "index": 103,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Title_ Uncategorizable.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.04817,
+                0.62895
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.161261,
+            "tokens_minted": 1515950.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "37c48d2da34ad82ebf38422dfe93ff57707b7f0db8de856921d65039057634ee",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_TITLE_ UNCATEGORIZABLE.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Title_ Uncategorizable.mp3",
+            "platform_breakdown": {
+                "Spotify": 357,
+                "YouTube_Music": 632,
+                "Apple_Music": 841,
+                "Social_Networks": 277,
+                "Direct_Sovereign_Stream": 804
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "f3e41f744e5602fd1a9871612a17509083f85d1dbc1d802c4a227a71bc650bcb"
+        },
+        {
+            "index": 104,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Tu Nuevo Hogar.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.48959,
+                -0.82419
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.336122,
+            "tokens_minted": 2617550.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "f3e41f744e5602fd1a9871612a17509083f85d1dbc1d802c4a227a71bc650bcb",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_TU NUEVO HOGAR.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Tu Nuevo Hogar.mp3",
+            "platform_breakdown": {
+                "Spotify": 827,
+                "YouTube_Music": 771,
+                "Apple_Music": 133,
+                "Social_Networks": 796,
+                "Direct_Sovereign_Stream": 886
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "a27f7f788093d7cbaade7edd841220000f9e3361a5827dcd5c3d08a8b53205f8"
+        },
+        {
+            "index": 105,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "T\u00edtulo_ Per\u00edmetro 5000.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.82953,
+                0.80283
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.124681,
+            "tokens_minted": 1285500.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "a27f7f788093d7cbaade7edd841220000f9e3361a5827dcd5c3d08a8b53205f8",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_T\u00cdTULO_ PER\u00cdMETRO 5000.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/T\u00edtulo_ Per\u00edmetro 5000.mp3",
+            "platform_breakdown": {
+                "Spotify": 696,
+                "YouTube_Music": 350,
+                "Apple_Music": 281,
+                "Social_Networks": 581,
+                "Direct_Sovereign_Stream": 259
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "4ea1a1c39c28d61c7c2dbeb45aa94b3635b6c3580ca02e51a4ce8b096cf2a171"
+        },
+        {
+            "index": 106,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Uno a Uno (1).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.90325,
+                -0.20873
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.631948,
+            "tokens_minted": 4481250.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "4ea1a1c39c28d61c7c2dbeb45aa94b3635b6c3580ca02e51a4ce8b096cf2a171",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_UNO A UNO (1).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Uno a Uno (1).mp3",
+            "platform_breakdown": {
+                "Spotify": 201,
+                "YouTube_Music": 534,
+                "Apple_Music": 418,
+                "Social_Networks": 475,
+                "Direct_Sovereign_Stream": 318
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "6253b6d761d7528465a2af2bb56cae88c0045674950d39a1417869fe470d0894"
+        },
+        {
+            "index": 107,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Uno a Uno.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.59466,
+                -0.26638
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.528998,
+            "tokens_minted": 3832700.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "6253b6d761d7528465a2af2bb56cae88c0045674950d39a1417869fe470d0894",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_UNO A UNO.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Uno a Uno.mp3",
+            "platform_breakdown": {
+                "Spotify": 434,
+                "YouTube_Music": 384,
+                "Apple_Music": 501,
+                "Social_Networks": 710,
+                "Direct_Sovereign_Stream": 624
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "4bd414ddf054ac6f635266409e48f38f2a81e4340b479095f0e165951df06293"
+        },
+        {
+            "index": 108,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Verdad en Tiempo Real (Remix).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.13005,
+                0.68531
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.628561,
+            "tokens_minted": 4459950.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "4bd414ddf054ac6f635266409e48f38f2a81e4340b479095f0e165951df06293",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_VERDAD EN TIEMPO REAL (REMIX).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Verdad en Tiempo Real (Remix).mp3",
+            "platform_breakdown": {
+                "Spotify": 154,
+                "YouTube_Music": 531,
+                "Apple_Music": 836,
+                "Social_Networks": 705,
+                "Direct_Sovereign_Stream": 135
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "8459c06717a357fa8c0db0500af474d5f003602059f609a75847d8ccbedc553a"
+        },
+        {
+            "index": 109,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "Warren Buffett.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.3383,
+                -0.20831
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.521518,
+            "tokens_minted": 3785550.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "8459c06717a357fa8c0db0500af474d5f003602059f609a75847d8ccbedc553a",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_WARREN BUFFETT.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/Warren Buffett.mp3",
+            "platform_breakdown": {
+                "Spotify": 402,
+                "YouTube_Music": 534,
+                "Apple_Music": 471,
+                "Social_Networks": 649,
+                "Direct_Sovereign_Stream": 328
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "bd2b42feb814495521718b2e43ed0f974b6c2b4cc6926980c83bd083f514713d"
+        },
+        {
+            "index": 110,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "__(La Loba 6)__.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.43573,
+                -0.00951
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.656259,
+            "tokens_minted": 4634450.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "bd2b42feb814495521718b2e43ed0f974b6c2b4cc6926980c83bd083f514713d",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE___(LA LOBA 6)__.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/__(La Loba 6)__.mp3",
+            "platform_breakdown": {
+                "Spotify": 937,
+                "YouTube_Music": 350,
+                "Apple_Music": 401,
+                "Social_Networks": 214,
+                "Direct_Sovereign_Stream": 468
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "51e4a5cea4ec511bc28cb9f879d6179694110205ead82c7b31128690f9928b08"
+        },
+        {
+            "index": 111,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "__(T\u00edtulo_ Nuevo Orden - Lucifer y el Arquitecto)__ (Remix).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.76053,
+                0.98297
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.548243,
+            "tokens_minted": 3953950.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "51e4a5cea4ec511bc28cb9f879d6179694110205ead82c7b31128690f9928b08",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE___(T\u00cdTULO_ NUEVO ORDEN - LUCIFER Y EL ARQUITECTO)__ (REMIX).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/__(T\u00edtulo_ Nuevo Orden - Lucifer y el Arquitecto)__ (Remix).mp3",
+            "platform_breakdown": {
+                "Spotify": 225,
+                "YouTube_Music": 912,
+                "Apple_Music": 162,
+                "Social_Networks": 246,
+                "Direct_Sovereign_Stream": 517
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "93d2dbb5c6faa473200b4383a09560ec2c197ea164e21f9a79b7d361fbe5fce6"
+        },
+        {
+            "index": 112,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "__Uproar in the Grid__.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.8479,
+                0.09517
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.618729,
+            "tokens_minted": 4398000.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "93d2dbb5c6faa473200b4383a09560ec2c197ea164e21f9a79b7d361fbe5fce6",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE___UPROAR IN THE GRID__.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/__Uproar in the Grid__.mp3",
+            "platform_breakdown": {
+                "Spotify": 230,
+                "YouTube_Music": 282,
+                "Apple_Music": 668,
+                "Social_Networks": 453,
+                "Direct_Sovereign_Stream": 542
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "fd9e351584351742dabc611d2eaf557ea8a27b6352f76c454351cb942595ce45"
+        },
+        {
+            "index": 113,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "default_ringtone.ogg",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.08727,
+                -0.83323
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.146417,
+            "tokens_minted": 1422450.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "fd9e351584351742dabc611d2eaf557ea8a27b6352f76c454351cb942595ce45",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_DEFAULT_RINGTONE.OGG",
+            "ruta_origen": "/storage/emulated/0/Ringtones/default_ringtone.ogg",
+            "platform_breakdown": {
+                "Spotify": 521,
+                "YouTube_Music": 382,
+                "Apple_Music": 794,
+                "Social_Networks": 482,
+                "Direct_Sovereign_Stream": 675
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "d429a5d64b9eba55f5e37eda8c907d0747423eaa3b127db0732c5fda15ffc535"
+        },
+        {
+            "index": 114,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "el tit\u00e1n 2.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.07041,
+                0.09742
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.695681,
+            "tokens_minted": 4882800.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "d429a5d64b9eba55f5e37eda8c907d0747423eaa3b127db0732c5fda15ffc535",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_EL TIT\u00c1N 2.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/el tit\u00e1n 2.mp3",
+            "platform_breakdown": {
+                "Spotify": 835,
+                "YouTube_Music": 250,
+                "Apple_Music": 184,
+                "Social_Networks": 794,
+                "Direct_Sovereign_Stream": 833
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "5651ba2752cb6a69af56f14a79bc0e85f47d87d8e1e68af42fe24153cfd3fd8d"
+        },
+        {
+            "index": 115,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "olimpiadas gal\u00e1cticas.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.93908,
+                -0.82933
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.289058,
+            "tokens_minted": 2321050.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "5651ba2752cb6a69af56f14a79bc0e85f47d87d8e1e68af42fe24153cfd3fd8d",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_OLIMPIADAS GAL\u00c1CTICAS.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/olimpiadas gal\u00e1cticas.mp3",
+            "platform_breakdown": {
+                "Spotify": 285,
+                "YouTube_Music": 613,
+                "Apple_Music": 539,
+                "Social_Networks": 145,
+                "Direct_Sovereign_Stream": 297
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "0e96cb94596a106a75267d3a072cd0c8df660d1779dc27a645574c8255294a07"
+        },
+        {
+            "index": 116,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "this one's for you.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.50792,
+                0.38411
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.16405,
+            "tokens_minted": 1533500.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "0e96cb94596a106a75267d3a072cd0c8df660d1779dc27a645574c8255294a07",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_THIS ONE'S FOR YOU.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/this one's for you.mp3",
+            "platform_breakdown": {
+                "Spotify": 610,
+                "YouTube_Music": 827,
+                "Apple_Music": 844,
+                "Social_Networks": 796,
+                "Direct_Sovereign_Stream": 384
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "b87d6cfcb27e366b65bc920c95ad3dc2cc128bed4a2c095a94880fa573a5343b"
+        },
+        {
+            "index": 117,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "\u0623\u0648\u0645\u064a\u063a\u0627 \u0647\u0628\u0637.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.16444,
+                -0.88042
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.514333,
+            "tokens_minted": 3740300.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "b87d6cfcb27e366b65bc920c95ad3dc2cc128bed4a2c095a94880fa573a5343b",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_\u0623\u0648\u0645\u064a\u063a\u0627 \u0647\u0628\u0637.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/\u0623\u0648\u0645\u064a\u063a\u0627 \u0647\u0628\u0637.mp3",
+            "platform_breakdown": {
+                "Spotify": 246,
+                "YouTube_Music": 482,
+                "Apple_Music": 364,
+                "Social_Networks": 823,
+                "Direct_Sovereign_Stream": 322
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "8eabf7d731bf09b5411ef217e97e013ec90d4ff6a4a144d9f9e8e5a4fd12dab4"
+        },
+        {
+            "index": 118,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "\u0627\u0628\u0646\u064a \u0648\u0635\u0644.m4a",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.67624,
+                0.77946
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.65106,
+            "tokens_minted": 4601700.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "8eabf7d731bf09b5411ef217e97e013ec90d4ff6a4a144d9f9e8e5a4fd12dab4",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_\u0627\u0628\u0646\u064a \u0648\u0635\u0644.M4A",
+            "ruta_origen": "/storage/emulated/0/Download/\u0627\u0628\u0646\u064a \u0648\u0635\u0644.m4a",
+            "platform_breakdown": {
+                "Spotify": 478,
+                "YouTube_Music": 285,
+                "Apple_Music": 526,
+                "Social_Networks": 808,
+                "Direct_Sovereign_Stream": 874
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "81e63672298e7ae93933409785c8510f0caa44606f1ad12557ea630d97f1461a"
+        },
+        {
+            "index": 119,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "\u092e\u0947\u0930\u093e \u092c\u0947\u091f\u093e \u0906\u092f\u093e.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.79838,
+                -0.00129
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.734165,
+            "tokens_minted": 5125250.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "81e63672298e7ae93933409785c8510f0caa44606f1ad12557ea630d97f1461a",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_\u092e\u0947\u0930\u093e \u092c\u0947\u091f\u093e \u0906\u092f\u093e.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/\u092e\u0947\u0930\u093e \u092c\u0947\u091f\u093e \u0906\u092f\u093e.mp3",
+            "platform_breakdown": {
+                "Spotify": 420,
+                "YouTube_Music": 663,
+                "Apple_Music": 261,
+                "Social_Networks": 306,
+                "Direct_Sovereign_Stream": 196
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "6c24409204f5c1d72eb024326f392b8e4711d7b9940645f281af90e9180cdf51"
+        },
+        {
+            "index": 120,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "\u1eccm\u1ecd Mi D\u00e9.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.09717,
+                -0.71696
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.611459,
+            "tokens_minted": 4352200.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "6c24409204f5c1d72eb024326f392b8e4711d7b9940645f281af90e9180cdf51",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_\u1eccM\u1ecc MI D\u00c9.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/\u1eccm\u1ecd Mi D\u00e9.mp3",
+            "platform_breakdown": {
+                "Spotify": 587,
+                "YouTube_Music": 416,
+                "Apple_Music": 150,
+                "Social_Networks": 212,
+                "Direct_Sovereign_Stream": 614
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "958d6fbec5e4e841aa0726f8613a62c1766139c0fd3442dbaa8e7fe4b61ac239"
+        },
+        {
+            "index": 121,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "\u201cPIEDRAS EN EL R\u00cdO\u201d\u201d (1).mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.83012,
+                0.79923
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.326686,
+            "tokens_minted": 2558100.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "958d6fbec5e4e841aa0726f8613a62c1766139c0fd3442dbaa8e7fe4b61ac239",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_\u201cPIEDRAS EN EL R\u00cdO\u201d\u201d (1).MP3",
+            "ruta_origen": "/storage/emulated/0/Download/\u201cPIEDRAS EN EL R\u00cdO\u201d\u201d (1).mp3",
+            "platform_breakdown": {
+                "Spotify": 124,
+                "YouTube_Music": 587,
+                "Apple_Music": 684,
+                "Social_Networks": 224,
+                "Direct_Sovereign_Stream": 248
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "8effe6ee579e9ecb6d5aa55758dae010d86b649ec9cdbd016ac88b4c391b7d14"
+        },
+        {
+            "index": 122,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "\u201cPIEDRAS EN EL R\u00cdO\u201d\u201d.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.6013,
+                -0.92358
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.335845,
+            "tokens_minted": 2615800.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "8effe6ee579e9ecb6d5aa55758dae010d86b649ec9cdbd016ac88b4c391b7d14",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_\u201cPIEDRAS EN EL R\u00cdO\u201d\u201d.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/\u201cPIEDRAS EN EL R\u00cdO\u201d\u201d.mp3",
+            "platform_breakdown": {
+                "Spotify": 694,
+                "YouTube_Music": 289,
+                "Apple_Music": 143,
+                "Social_Networks": 643,
+                "Direct_Sovereign_Stream": 134
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "7de1d6edb061ed79c9af83f7e62751797ece80022167a98279696cd04fa48fb1"
+        },
+        {
+            "index": 123,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "\u4e3b\u6a29\u8005.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.03434,
+                0.24258
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.624412,
+            "tokens_minted": 4433800.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "7de1d6edb061ed79c9af83f7e62751797ece80022167a98279696cd04fa48fb1",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_\u4e3b\u6a29\u8005.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/\u4e3b\u6a29\u8005.mp3",
+            "platform_breakdown": {
+                "Spotify": 161,
+                "YouTube_Music": 432,
+                "Apple_Music": 492,
+                "Social_Networks": 135,
+                "Direct_Sovereign_Stream": 613
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "a472ff4b625884a697b5b409e61eddf3796e3e8f9d868e2bc0a3ba957c293b51"
+        },
+        {
+            "index": 124,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "\u628a\u738b\u5ea7\u4ea4\u7ed9\u4ed6.m4a",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.2804,
+                0.12164
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.175717,
+            "tokens_minted": 1607000.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "a472ff4b625884a697b5b409e61eddf3796e3e8f9d868e2bc0a3ba957c293b51",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_\u628a\u738b\u5ea7\u4ea4\u7ed9\u4ed6.M4A",
+            "ruta_origen": "/storage/emulated/0/Download/\u628a\u738b\u5ea7\u4ea4\u7ed9\u4ed6.m4a",
+            "platform_breakdown": {
+                "Spotify": 927,
+                "YouTube_Music": 261,
+                "Apple_Music": 562,
+                "Social_Networks": 350,
+                "Direct_Sovereign_Stream": 157
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "a5084348646800fc05dd2d8702e83b6f67291ab647b3f8f1b7b79f1e1e3b292e"
+        },
+        {
+            "index": 125,
+            "timestamp": "2026-10-14 18:44:27 UTC",
+            "track": "\ub0b4 \uc544\ub4e4\uc774 \uc654\uc5b4.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.14789,
+                0.04623
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.363026,
+            "tokens_minted": 2787050.0,
+            "royalty_accrued_usd": 25000.0,
+            "prev_hash": "a5084348646800fc05dd2d8702e83b6f67291ab647b3f8f1b7b79f1e1e3b292e",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_\ub0b4 \uc544\ub4e4\uc774 \uc654\uc5b4.MP3",
+            "ruta_origen": "/storage/emulated/0/Download/\ub0b4 \uc544\ub4e4\uc774 \uc654\uc5b4.mp3",
+            "platform_breakdown": {
+                "Spotify": 424,
+                "YouTube_Music": 328,
+                "Apple_Music": 623,
+                "Social_Networks": 287,
+                "Direct_Sovereign_Stream": 576
+            },
+            "origin_account": "Pedro.j.acobes@gmail.com",
+            "verified_origin_plays": 500000,
+            "block_hash": "1be23c8c90e84dda3f6aee2e1a11747fe382e5e3d1dff1fd16a9bb6b8078c355"
+        },
+        {
+            "index": 126,
+            "timestamp": "2026-11-09 23:38:38 UTC",
+            "track": ".trashed-1796530710-Eleven_Sovereign_640_Master.wav",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.39829,
+                -0.50074
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.42881,
+            "tokens_minted": 6.403,
+            "royalty_accrued_usd": 0.05,
+            "prev_hash": "1be23c8c90e84dda3f6aee2e1a11747fe382e5e3d1dff1fd16a9bb6b8078c355",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_.TRASHED-1796530710-ELEVEN_SOVEREIGN_640_MASTER.WAV",
+            "ruta_origen": "/storage/emulated/0/Download/.trashed-1796530710-Eleven_Sovereign_640_Master.wav",
+            "block_hash": "cd857ca1fd8a11bde02a0d980348828389be58d3b37e8bc23879843b57b13f1b"
+        },
+        {
+            "index": 127,
+            "timestamp": "2026-11-09 23:38:38 UTC",
+            "track": "Acobes_Sovereign_640_Master.wav",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.12328,
+                0.23844
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.272767,
+            "tokens_minted": 4.4369,
+            "royalty_accrued_usd": 0.05,
+            "prev_hash": "cd857ca1fd8a11bde02a0d980348828389be58d3b37e8bc23879843b57b13f1b",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_ACOBES_SOVEREIGN_640_MASTER.WAV",
+            "ruta_origen": "/storage/emulated/0/Download/Acobes_Sovereign_640_Master.wav",
+            "block_hash": "e7d06147c570b497ba4fa74889ae272e8b20e906e6d6eb92b6c4b9db93b01c68"
+        },
+        {
+            "index": 128,
+            "timestamp": "2026-11-09 23:38:38 UTC",
+            "track": "Acobes_Studio_Master_Full_Song.wav",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.65439,
+                0.6211
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.323259,
+            "tokens_minted": 5.0731,
+            "royalty_accrued_usd": 0.05,
+            "prev_hash": "e7d06147c570b497ba4fa74889ae272e8b20e906e6d6eb92b6c4b9db93b01c68",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_ACOBES_STUDIO_MASTER_FULL_SONG.WAV",
+            "ruta_origen": "/storage/emulated/0/Download/Acobes_Studio_Master_Full_Song.wav",
+            "block_hash": "0741edf11f9835a387e4884edd73ea9c3090d93bcdc871a0c230e2f14e94bbb1"
+        },
+        {
+            "index": 129,
+            "timestamp": "2026-11-09 23:38:38 UTC",
+            "track": "No_me_ronquen_Sovereign_640_Master.wav",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                0.95891,
+                -0.79376
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.388967,
+            "tokens_minted": 5.901,
+            "royalty_accrued_usd": 0.05,
+            "prev_hash": "0741edf11f9835a387e4884edd73ea9c3090d93bcdc871a0c230e2f14e94bbb1",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_NO_ME_RONQUEN_SOVEREIGN_640_MASTER.WAV",
+            "ruta_origen": "/storage/emulated/0/Download/No_me_ronquen_Sovereign_640_Master.wav",
+            "block_hash": "05e0ef6f4bfa0753c4457ac6367da584380f34ce4b7233d834eafdb434dd5b87"
+        },
+        {
+            "index": 130,
+            "timestamp": "2026-11-09 23:38:38 UTC",
+            "track": "Reversa_Sovereign_640_Master.wav",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.59754,
+                0.59308
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.82097,
+            "tokens_minted": 11.3442,
+            "royalty_accrued_usd": 0.05,
+            "prev_hash": "05e0ef6f4bfa0753c4457ac6367da584380f34ce4b7233d834eafdb434dd5b87",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_REVERSA_SOVEREIGN_640_MASTER.WAV",
+            "ruta_origen": "/storage/emulated/0/Download/Reversa_Sovereign_640_Master.wav",
+            "block_hash": "dd6393e5eea33e28ce6bb85739e19ca3bc22b7f3029e161a0898e2e5878bd4af"
+        },
+        {
+            "index": 131,
+            "timestamp": "2026-11-09 23:38:38 UTC",
+            "track": "Universitaria_Sovereign_640_Master.wav",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.87541,
+                -0.22424
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.523583,
+            "tokens_minted": 7.5971,
+            "royalty_accrued_usd": 0.05,
+            "prev_hash": "dd6393e5eea33e28ce6bb85739e19ca3bc22b7f3029e161a0898e2e5878bd4af",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_UNIVERSITARIA_SOVEREIGN_640_MASTER.WAV",
+            "ruta_origen": "/storage/emulated/0/Download/Universitaria_Sovereign_640_Master.wav",
+            "block_hash": "89ffdee19b4ed2deaaf2e8b1d3efd670ec3cfd8c10b0cb11cfcc2dc628990e40"
+        },
+        {
+            "index": 132,
+            "timestamp": "2026-11-09 23:38:38 UTC",
+            "track": "test-2.mp3",
+            "creator": "Pedro J. Acobes | Acobes Industries Inc. / Bio-Quantum Department",
+            "quantum_signature": [
+                -0.79948,
+                -0.70545
+            ],
+            "biometrics_ratio": 1.75,
+            "spectral_density": 0.383982,
+            "tokens_minted": 5.8382,
+            "royalty_accrued_usd": 0.05,
+            "prev_hash": "89ffdee19b4ed2deaaf2e8b1d3efd670ec3cfd8c10b0cb11cfcc2dc628990e40",
+            "era_temporal": "ERA_CATALOGO_EXPANDIDO_AUTO",
+            "comando_vinculado": "AUTO_ACQUIRE_TEST-2.MP3",
+            "ruta_origen": "/root/llama.cpp-cpu/tools/mtmd/test-2.mp3",
+            "block_hash": "c4a965cd82a168a3c9285b50f0a8681593abf657515d7f6407ef564011647425"
+        }
+    ],
+    "historical_platforms_synced": true,
+    "origin_email": "Pedro.j.acobes@gmail.com"
+}

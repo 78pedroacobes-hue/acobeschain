@@ -1,0 +1,13 @@
+{
+  "n_total": 26400,
+  "n_valid": 26400,
+  "n_fam": 12,
+  "extremos": [
+    [
+      "commutant_dim",
+      4.0,
+      0.0
+    ]
+  ],
+  "total_features": 54
+}

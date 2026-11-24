@@ -1,0 +1,32 @@
+{
+    "reservas_externas_usdt": 80000.0,
+    "contactos_autorizados": [
+        "DUBAI_MAFIA_01",
+        "TOKYO_SYNDICATE_09"
+    ],
+    "tasas_actuales": {
+        "AC": 10.0,
+        "ACC": 5.0,
+        "ASC": 50.0,
+        "AEC": 10.0,
+        "AAC": 10.0,
+        "AGC": 600.0,
+        "ADC": 2000.0,
+        "AQC": 5000.0,
+        "SCC": 100000.0
+    },
+    "transacciones": [
+        {
+            "timestamp": 1794267455.9077876,
+            "entidad": "DUBAI_MAFIA_01",
+            "compra": "50 AGC",
+            "pago_usdt": 30000.0
+        },
+        {
+            "timestamp": 1794267457.0289419,
+            "entidad": "TOKYO_SYNDICATE_09",
+            "compra": "10 AQC",
+            "pago_usdt": 50000.0
+        }
+    ]
+}

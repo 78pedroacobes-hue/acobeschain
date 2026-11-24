@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: arquitectura-records-distribuidora
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+    envVars:
+      - key: LABEL_NAME
+        value: Arquitectura Records LLC
+      - key: PRIMARY_ARTIST
+        value: 'Acobes "El Arquitecto"'
+      - key: ISRC_COUNTRY
+        value: US
+      - key: ISRC_REGISTRANT
+        value: XXX
+      - key: ISRC_YEAR
+        value: "26"
+      - key: DDEX_DPID
+        value: PADPIDA_PENDIENTE_REGISTRO
+      - key: GS1_UPC_PREFIX
+        value: ""

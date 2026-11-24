@@ -1,0 +1,29 @@
+import torch, time, pennylane as qml
+
+def make(dev):
+    @qml.qnode(dev, interface="torch", diff_method="backprop")
+    def c(x, w):
+        qml.AngleEmbedding(x, wires=range(8), rotation="Y")
+        qml.StronglyEntanglingLayers(w, wires=range(8))
+        return [qml.expval(qml.PauliZ(i)) for i in range(8)]
+    return c
+
+dev_l = qml.device("lightning.qubit", wires=8)
+dev_d = qml.device("default.qubit", wires=8)
+
+for tag, dev, dm in [("lightning/adjoint", dev_l, "adjoint"),
+                     ("default/backprop", dev_d, "backprop")]:
+    @qml.qnode(dev, interface="torch", diff_method=dm)
+    def c(x, w):
+        qml.AngleEmbedding(x, wires=range(8), rotation="Y")
+        qml.StronglyEntanglingLayers(w, wires=range(8))
+        return [qml.expval(qml.PauliZ(i)) for i in range(8)]
+    for B in [1, 8, 32, 128]:
+        x = torch.randn(B, 8) * 0.5
+        w = torch.randn(B, 4, 8, 3) * 0.3
+        c(x, w)  # warm
+        t0 = time.perf_counter()
+        for _ in range(5):
+            c(x, w)
+        dt = (time.perf_counter() - t0) / 5 * 1e6 / B
+        print(f"{tag:>20} B={B:>4}  {dt:>8.1f} µs/sample")

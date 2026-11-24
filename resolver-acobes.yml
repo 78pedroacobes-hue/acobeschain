@@ -1,0 +1,44 @@
+territorio: acobes
+duena: ACO BES
+puerta_publica: acobeschain.com
+server:
+  listen: 127.0.0.1:53
+  forward: NO
+  dnssec: ON
+channels:
+  - name: trinity
+    domain: trinity.acobes
+    ip: 127.0.0.2
+    port: 5301
+    channel: 1
+    allow-only: VIP-LIST
+  - name: auralite
+    domain: auralite.acobes
+    ip: 127.0.0.3
+    port: 5302
+    channel: 2
+    allow-only: VIP-LIST
+  - name: vault
+    domain: vault.acobes
+    ip: 127.0.0.4
+    port: 5303
+    channel: 3
+    allow-only: ACOBES-ONLY
+  - name: puerta
+    domain: puerta.acobes
+    ip: 127.0.0.5
+    port: 5304
+    channel: 4
+    allow-only: PUBLIC
+  - name: ns1
+    domain: ns1.acobes
+    ip: 127.0.0.10
+    port: 5310
+    channel: 10
+    allow-only: AUTH
+  - name: ns2
+    domain: ns2.acobes
+    ip: 127.0.0.11
+    port: 5311
+    channel: 11
+    allow-only: AUTH

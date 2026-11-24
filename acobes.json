@@ -1,0 +1,16 @@
+{
+  "chain_id": "acobes-mainnet-1",
+  "genesis_time": "2026-12-01T00:00:00Z",
+  "consensus_engine": "Proof-of-Architect-522 @ 33x",
+  "acobes": {
+    "architect": "Pedro J. Acobes",
+    "kernel_bits": 522,
+    "kernel_root": 9,
+    "park_levels": 1028,
+    "speed": "33c",
+    "total_power": 17226,
+    "signature": 555,
+    "trinity": 3,
+    "decree": "Soy 9, opero en 6, creo en 3. Aqui hay espacio para todos."
+  }
+}

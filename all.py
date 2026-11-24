@@ -1,0 +1,204 @@
+import os
+import sys
+import time
+import json
+import glob
+import hashlib
+import threading
+import subprocess
+import urllib.request
+import urllib.parse
+import torch
+import torch.nn as nn
+import numpy as np
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
+import uvicorn
+import nest_asyncio
+
+print("==========================================================")
+print("       NÚCLEO UNIFICADO PERPETUO: SOVEREIGN MIND V18      ")
+print("==========================================================")
+
+# --- 0. LIBERACIÓN PREVENTIVA DE PUERTO 8000 ---
+try:
+    pid = subprocess.check_output("lsof -t -i:8000", shell=True).decode().strip()
+    if pid:
+        for p in pid.split():
+            os.system(f"kill -9 {p}")
+        print("[✔] Puerto 8000 liberado preventivamente de ejecuciones anteriores.")
+except Exception:
+    pass
+
+# --- 1. DEFINICIÓN DE ARCHIVOS Y CONSTANTES SOBERANAS ---
+LEDGER_FILE = "acobes_blockchain_ledger.json"
+BIOMETRIC_FILE = "acobes_biometric_config.json"
+LOG_FILE = "centinela_omega.log"
+CREATOR = "Pedro J. Acobes | El Arquitecto & El Veterano"
+TOKEN_SYMBOL = "ACOB"
+ROYALTY_RATE_USD = 0.05
+LARGO_BIOLOGICO = 12.6
+ANCHO_BIOLOGICO = 7.2
+
+# --- 2. CONFIGURACIÓN DEL MOTOR CUÁNTICO BIOMÉTRICO ---
+class SovereignQuantumCNN(nn.Module):
+    def __init__(self, out_features=2):
+        super().__init__()
+        self.conv = nn.Conv1d(1, 4, kernel_size=3, padding=1)
+        self.fc = nn.Linear(4, out_features)
+    def forward(self, x):
+        x = torch.relu(self.conv(x))
+        x = torch.mean(x, dim=-1)
+        return self.fc(x)
+
+class AudioBridgeSynthesizer:
+    def __init__(self, model):
+        self.model = model
+    def extract_quantum_signature(self, wav_path):
+        state = np.random.RandomState(abs(hash(wav_path)) % (2**32))
+        spectral_density = float(state.uniform(0.1, 0.9))
+        signature_vector = [float(x) for x in state.uniform(-1.0, 1.0, size=2)]
+        biometria_hash = (LARGO_BIOLOGICO * ANCHO_BIOLOGICO) / (spectral_density + 0.01)
+        signature_vector[0] += round(np.sin(biometria_hash) * 0.1, 5)
+        return {
+            "spectral_density": spectral_density,
+            "signature_vector": signature_vector,
+            "celular_ratio": round(LARGO_BIOLOGICO/ANCHO_BIOLOGICO, 4)
+        }
+
+# --- 3. GESTIÓN DEL BLOCKCHAIN LEDGER CONTABLE ---
+def calcular_hash_bloque(bloque: dict) -> str:
+    contenido = json.dumps(bloque, sort_keys=True).encode("utf-8")
+    return hashlib.sha256(contenido).hexdigest()
+
+def inicializar_ledger() -> dict:
+    if os.path.exists(LEDGER_FILE):
+        with open(LEDGER_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    genesis = {
+        "index": 0,
+        "timestamp": time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime()),
+        "track": "GENESIS_BLOCK_BIOMIMETIC",
+        "creator": CREATOR,
+        "quantum_signature": [0.0, 0.0],
+        "biometrics": {"largo": LARGO_BIOLOGICO, "ancho": ANCHO_BIOLOGICO},
+        "tokens_minted": 0.0,
+        "royalty_accrued_usd": 0.0,
+        "prev_hash": "0"*64
+    }
+    genesis["block_hash"] = calcular_hash_bloque(genesis)
+    ledger = {
+        "entity": CREATOR,
+        "token": TOKEN_SYMBOL,
+        "total_plays": 0,
+        "total_tokens_supply": 0.0,
+        "total_royalty_accrued_usd": 0.0,
+        "chain": [genesis]
+    }
+    with open(LEDGER_FILE, "w", encoding="utf-8") as f:
+        json.dump(ledger, f, indent=4)
+    return ledger
+
+def registrar_ejecucion_y_minar(wav_path: str, ledger: dict):
+    model = SovereignQuantumCNN()
+    synth = AudioBridgeSynthesizer(model)
+    info = synth.extract_quantum_signature(wav_path)
+    sig = [round(x, 5) for x in info["signature_vector"]]
+    densidad = info["spectral_density"]
+    tokens_emitidos = round(1.0 + (densidad * 12.6), 4)
+    prev_block = ledger["chain"][-1]
+
+    nuevo_bloque = {
+        "index": prev_block["index"] + 1,
+        "timestamp": time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime()),
+        "track": wav_path,
+        "creator": CREATOR,
+        "quantum_signature": sig,
+        "biometrics_ratio": info["celular_ratio"],
+        "spectral_density": round(densidad, 6),
+        "tokens_minted": tokens_emitidos,
+        "royalty_accrued_usd": ROYALTY_RATE_USD,
+        "prev_hash": prev_block["block_hash"]
+    }
+    nuevo_bloque["block_hash"] = calcular_hash_bloque(nuevo_bloque)
+
+    ledger["chain"].append(nuevo_bloque)
+    ledger["total_plays"] += 1
+    ledger["total_tokens_supply"] = round(ledger["total_tokens_supply"] + tokens_emitidos, 4)
+    ledger["total_royalty_accrued_usd"] = round(ledger["total_royalty_accrued_usd" ] + ROYALTY_RATE_USD, 2)
+
+# --- 4. CENTINELA PERPETUO ASÍNCRONO OMEGA ---
+def centinela_soberano_omega():
+    iteration = 0
+    backup_dir = "omega_backups"
+    os.makedirs(backup_dir, exist_ok=True)
+    while True:
+        iteration += 1
+        timestamp = time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime())
+        if os.path.exists(LEDGER_FILE):
+            try:
+                with open(LEDGER_FILE, "r", encoding="utf-8") as f:
+                    l_data = json.load(f)
+                with open(f"{backup_dir}/ledger_backup.json", "w", encoding="utf-8") as bf:
+                    json.dump(l_data, bf, indent=4)
+                estado = f"ACTIVO Y BLINDADO ({len(l_data.get('chain', []))} bloques)"
+            except:
+                estado = "ERROR_LECTURA_BACKUP"
+        else:
+            estado = "ESPERANDO_INICIALIZACION"
+
+        with open(LOG_FILE, "a", encoding="utf-8") as f:
+            f.write(f"[{timestamp}] ITERACIÓN {iteration}: {estado}. Centinela Operando.\n")
+        time.sleep(10)
+
+# --- 5. SERVIDOR GATEWAY API FASTAPI ---
+nest_asyncio.apply()
+app = FastAPI(title="Mente Soberana V18 Gateway")
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"]
+)
+
+@app.get("/")
+def home():
+    return {
+        "status": "active",
+        "entity": CREATOR,
+        "biometrics": {"largo_in": LARGO_BIOLOGICO, "ancho_in": ANCHO_BIOLOGICO}
+    }
+
+@app.post("/registrar_play")
+def registrar_play(track_name: str, platform: str = "Social-Network"):
+    try:
+        ledger = inicializar_ledger()
+        registrar_ejecucion_y_minar(track_name, ledger)
+        with open(LEDGER_FILE, "w", encoding="utf-8") as f:
+            json.dump(ledger, f, indent=4)
+        return {
+            "status": "success",
+            "track": track_name,
+            "plays": ledger["total_plays"],
+            "total_usd": ledger["total_royalty_accrued_usd"]
+        }
+    except Exception as e:
+        return {"status": "error", "detail": str(e)}
+
+# --- 6. LANZAMIENTO INTEGRADO EN SEGUNDO PLANO ---
+def run_api_server():
+    config = uvicorn.Config(app, host="127.0.0.1", port=8000, log_level="warning")
+    server = uvicorn.Server(config)
+    server.run()
+
+# Levantar API e Hilo Centinela Omega
+api_thread = threading.Thread(target=run_api_server, daemon=True)
+api_thread.start()
+
+omega_thread = threading.Thread(target=centinela_soberano_omega, daemon=True)
+omega_thread.start()
+
+print("[✔] Servidor API Levantado Exitosamente en Localhost:8000")
+print("[✔] Centinela Omega Inicializado de Forma Silenciosa.")
+print("==========================================================")

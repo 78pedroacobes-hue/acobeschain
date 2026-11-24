@@ -1,0 +1,578 @@
+[
+  {
+    "path": "-",
+    "size_kb": 1.0908203125,
+    "age_days": 0.10692213591050219,
+    "kind": "other",
+    "verdict": "KEEP",
+    "reason": "touched 0.1d ago"
+  },
+  {
+    "path": "Eleven.wav",
+    "size_kb": 38052.076171875,
+    "age_days": 1.6510029113816995,
+    "kind": "other",
+    "verdict": "KEEP",
+    "reason": "touched 1.7d ago"
+  },
+  {
+    "path": "Lirios_Del_Sur_Corte_Suprema_Master.wav",
+    "size_kb": 40785.927734375,
+    "age_days": 0.8726056665982361,
+    "kind": "other",
+    "verdict": "KEEP",
+    "reason": "touched 0.9d ago"
+  },
+  {
+    "path": "Lirios_Del_Sur_Decillion_Master.wav",
+    "size_kb": 40785.927734375,
+    "age_days": 1.5528651914552407,
+    "kind": "other",
+    "verdict": "KEEP",
+    "reason": "touched 1.6d ago"
+  },
+  {
+    "path": "M-B",
+    "size_kb": 8.109375,
+    "age_days": 1.5728677725240037,
+    "kind": "other",
+    "verdict": "KEEP",
+    "reason": "touched 1.6d ago"
+  },
+  {
+    "path": "No_me_ronquen.wav",
+    "size_kb": 33412.076171875,
+    "age_days": 1.6512012910125433,
+    "kind": "other",
+    "verdict": "KEEP",
+    "reason": "touched 1.7d ago"
+  },
+  {
+    "path": "Reversa.wav",
+    "size_kb": 40785.927734375,
+    "age_days": 1.6515987910109537,
+    "kind": "other",
+    "verdict": "KEEP",
+    "reason": "touched 1.7d ago"
+  },
+  {
+    "path": "Universitaria.wav",
+    "size_kb": 38008.076171875,
+    "age_days": 1.6513930965684078,
+    "kind": "other",
+    "verdict": "KEEP",
+    "reason": "touched 1.7d ago"
+  },
+  {
+    "path": "benchmark_quantum_engine.py",
+    "size_kb": 3.1875,
+    "age_days": 0.11723301553615817,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.1d ago"
+  },
+  {
+    "path": "benchmark_quantum_engine_v3500.py",
+    "size_kb": 9.6015625,
+    "age_days": 0.10074695072792195,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.1d ago"
+  },
+  {
+    "path": "clonacion_real_arquitecto.py",
+    "size_kb": 4.1572265625,
+    "age_days": 1.5884640688145601,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 1.6d ago"
+  },
+  {
+    "path": "conexion_titanserafin.py",
+    "size_kb": 1.09765625,
+    "age_days": 0.4872225185952805,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.5d ago"
+  },
+  {
+    "path": "dataset_rvc_pro_integro/Eleven.wav",
+    "size_kb": 38052.076171875,
+    "age_days": 0.18839779564076,
+    "kind": "other",
+    "verdict": "KEEP",
+    "reason": "touched 0.2d ago"
+  },
+  {
+    "path": "dataset_rvc_pro_integro/No_me_ronquen.wav",
+    "size_kb": 33412.076171875,
+    "age_days": 0.18839932341818455,
+    "kind": "other",
+    "verdict": "KEEP",
+    "reason": "touched 0.2d ago"
+  },
+  {
+    "path": "dataset_rvc_pro_integro/Reversa.wav",
+    "size_kb": 40785.927734375,
+    "age_days": 0.18840219379023268,
+    "kind": "other",
+    "verdict": "KEEP",
+    "reason": "touched 0.2d ago"
+  },
+  {
+    "path": "dataset_rvc_pro_integro/Universitaria.wav",
+    "size_kb": 38008.076171875,
+    "age_days": 0.18840066601280814,
+    "kind": "other",
+    "verdict": "KEEP",
+    "reason": "touched 0.2d ago"
+  },
+  {
+    "path": "default_qubit.logpython3",
+    "size_kb": 1.0908203125,
+    "age_days": 0.10692213591050219,
+    "kind": "other",
+    "verdict": "KEEP",
+    "reason": "touched 0.1d ago"
+  },
+  {
+    "path": "despertar_corazon.py",
+    "size_kb": 0.8876953125,
+    "age_days": 0.6420729814994114,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.6d ago"
+  },
+  {
+    "path": "diagnose_q12.py",
+    "size_kb": 1.8779296875,
+    "age_days": 0.10142630258092174,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.1d ago"
+  },
+  {
+    "path": "entrenar_voz_soberano.py",
+    "size_kb": 9.1826171875,
+    "age_days": 1.5345032470176618,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 1.5d ago"
+  },
+  {
+    "path": "escudo_1_billon_inmutable.py",
+    "size_kb": 3.9638671875,
+    "age_days": 0.63869622224183,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.6d ago"
+  },
+  {
+    "path": "escudo_mitosis_activa.py",
+    "size_kb": 3.201171875,
+    "age_days": 0.6394360370575278,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.6d ago"
+  },
+  {
+    "path": "extractor_maestro.py",
+    "size_kb": 1.1474609375,
+    "age_days": 1.6520451799007478,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 1.7d ago"
+  },
+  {
+    "path": "extraer_voces_puro.py",
+    "size_kb": 0.97265625,
+    "age_days": 1.6018383743641553,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 1.6d ago"
+  },
+  {
+    "path": "guardian_bucle.py",
+    "size_kb": 1.8896484375,
+    "age_days": 0.48706219452122845,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.5d ago"
+  },
+  {
+    "path": "guardian_temporal_agresivo.py",
+    "size_kb": 2.5302734375,
+    "age_days": 1.6557915687864577,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 1.7d ago"
+  },
+  {
+    "path": "hybrid_qml_beast.py",
+    "size_kb": 11.2275390625,
+    "age_days": 0.06272551555876378,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.1d ago"
+  },
+  {
+    "path": "hybrid_qml_crucible.py",
+    "size_kb": 10.2919921875,
+    "age_days": 0.058260145190137405,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.1d ago"
+  },
+  {
+    "path": "hybrid_qml_crucible_fixed.py",
+    "size_kb": 9.326171875,
+    "age_days": 0.05227213593268836,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.1d ago"
+  },
+  {
+    "path": "hybrid_qml_expressive.py",
+    "size_kb": 9.7314453125,
+    "age_days": 0.03537366371739794,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.0d ago"
+  },
+  {
+    "path": "hybrid_qml_grounded.py",
+    "size_kb": 9.0087890625,
+    "age_days": 0.025568895201992105,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.0d ago"
+  },
+  {
+    "path": "hybrid_qml_levitating.py",
+    "size_kb": 10.640625,
+    "age_days": 0.06830570074143233,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.1d ago"
+  },
+  {
+    "path": "hybrid_qml_reupload.py",
+    "size_kb": 9.58984375,
+    "age_days": 0.04399246000857265,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.0d ago"
+  },
+  {
+    "path": "hybrid_qml_termux.py",
+    "size_kb": 9.8310546875,
+    "age_days": 0.03314820075476611,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.0d ago"
+  },
+  {
+    "path": "hybrid_qml_trainable.py",
+    "size_kb": 12.5908203125,
+    "age_days": 0.07277764518227842,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.1d ago"
+  },
+  {
+    "path": "lanzador_fantasma.sh",
+    "size_kb": 1.5703125,
+    "age_days": 0.19248950860290615,
+    "kind": "other",
+    "verdict": "KEEP",
+    "reason": "touched 0.2d ago"
+  },
+  {
+    "path": "matriz_googol_10_500.py",
+    "size_kb": 2.873046875,
+    "age_days": 1.6231626336138558,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 1.6d ago"
+  },
+  {
+    "path": "mo.py",
+    "size_kb": 8.1787109375,
+    "age_days": 1.5545626451571783,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 1.6d ago"
+  },
+  {
+    "path": "modelo_19k.py",
+    "size_kb": 2.4248046875,
+    "age_days": 1.6284383280575276,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 1.6d ago"
+  },
+  {
+    "path": "modelo_5billones.py",
+    "size_kb": 2.939453125,
+    "age_days": 1.6251228650962866,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 1.6d ago"
+  },
+  {
+    "path": "motor_vocal_acobes.py",
+    "size_kb": 1.9150390625,
+    "age_days": 1.5972631428832258,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 1.6d ago"
+  },
+  {
+    "path": "multi_containment.py",
+    "size_kb": 0.0,
+    "age_days": 0.1894755734199727,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.2d ago"
+  },
+  {
+    "path": "multiverse_bridge.py",
+    "size_kb": 4.96875,
+    "age_days": 0.8639490925272306,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.9d ago"
+  },
+  {
+    "path": "n",
+    "size_kb": 8.1083984375,
+    "age_days": 1.5750437447456298,
+    "kind": "other",
+    "verdict": "KEEP",
+    "reason": "touched 1.6d ago"
+  },
+  {
+    "path": "nanobots_pulso_supremo.py",
+    "size_kb": 3.4228515625,
+    "age_days": 0.6392921481667845,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.6d ago"
+  },
+  {
+    "path": "nodo_sigilo.py",
+    "size_kb": 1.5234375,
+    "age_days": 0.5017493704430483,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.5d ago"
+  },
+  {
+    "path": "nucleo_supremo_300k.py",
+    "size_kb": 2.3154296875,
+    "age_days": 0.6391139074276995,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.6d ago"
+  },
+  {
+    "path": "p.py",
+    "size_kb": 5.8701171875,
+    "age_days": 0.19361302712173373,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.2d ago"
+  },
+  {
+    "path": "pl.py",
+    "size_kb": 1.5380859375,
+    "age_days": 0.20386895304200825,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.2d ago"
+  },
+  {
+    "path": "poderes_supremos.py",
+    "size_kb": 2.005859375,
+    "age_days": 0.6401280277967453,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.6d ago"
+  },
+  {
+    "path": "ppp.py",
+    "size_kb": 4.0,
+    "age_days": 0.20434131415353882,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.2d ago"
+  },
+  {
+    "path": "ppppp.py",
+    "size_kb": 4.2998046875,
+    "age_days": 0.11881208960932714,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.1d ago"
+  },
+  {
+    "path": "preparar_dataset_integro.py",
+    "size_kb": 1.00390625,
+    "age_days": 1.6000104114026934,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 1.6d ago"
+  },
+  {
+    "path": "probe_stack_limits.py",
+    "size_kb": 6.044921875,
+    "age_days": 0.10621292294727432,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.1d ago"
+  },
+  {
+    "path": "procesar_cancion_completa.py",
+    "size_kb": 2.4189453125,
+    "age_days": 1.5957721706617762,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 1.6d ago"
+  },
+  {
+    "path": "procesar_lirios_del_sur.py",
+    "size_kb": 4.1103515625,
+    "age_days": 1.5925173095530933,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 1.6d ago"
+  },
+  {
+    "path": "protocolo_titan.py",
+    "size_kb": 3.509765625,
+    "age_days": 0.6394445555739933,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.6d ago"
+  },
+  {
+    "path": "puente_cifrado_arquitecto.py",
+    "size_kb": 2.033203125,
+    "age_days": 0.19249191600967336,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.2d ago"
+  },
+  {
+    "path": "puente_nube.py",
+    "size_kb": 0.7587890625,
+    "age_days": 1.6321734206488838,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 1.6d ago"
+  },
+  {
+    "path": "render_final_lirios.py",
+    "size_kb": 1.9892578125,
+    "age_days": 0.8728091388195753,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.9d ago"
+  },
+  {
+    "path": "sanear_dispositivo.py",
+    "size_kb": 2.2509765625,
+    "age_days": 0.18979575860279577,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.2d ago"
+  },
+  {
+    "path": "separador_pro.py",
+    "size_kb": 0.9521484375,
+    "age_days": 1.6142290225073144,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 1.6d ago"
+  },
+  {
+    "path": "separador_vocal.py",
+    "size_kb": 0.5693359375,
+    "age_days": 1.6475243928642185,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 1.6d ago"
+  },
+  {
+    "path": "sovereign_core_grounded.pth",
+    "size_kb": 432.05859375,
+    "age_days": 0.02042292297990234,
+    "kind": "model",
+    "verdict": "KEEP",
+    "reason": "touched 0.0d ago"
+  },
+  {
+    "path": "sovereign_core_hardened.pth",
+    "size_kb": 884.4482421875,
+    "age_days": 0.04944121000667413,
+    "kind": "model",
+    "verdict": "KEEP",
+    "reason": "touched 0.0d ago"
+  },
+  {
+    "path": "sovereign_core_reupload.pth",
+    "size_kb": 884.4482421875,
+    "age_days": 0.03661384890200915,
+    "kind": "model",
+    "verdict": "KEEP",
+    "reason": "touched 0.0d ago"
+  },
+  {
+    "path": "sovereign_core_termux.pth",
+    "size_kb": 1081.9833984375,
+    "age_days": 0.029353756311315076,
+    "kind": "model",
+    "verdict": "KEEP",
+    "reason": "touched 0.0d ago"
+  },
+  {
+    "path": "sovereign_quantum_cnn.py",
+    "size_kb": 5.287109375,
+    "age_days": 0.20916186970693093,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 0.2d ago"
+  },
+  {
+    "path": "train.log",
+    "size_kb": 2.0107421875,
+    "age_days": 0.07151597851680384,
+    "kind": "data",
+    "verdict": "KEEP",
+    "reason": "touched 0.1d ago"
+  },
+  {
+    "path": "train_beast.log",
+    "size_kb": 1.46484375,
+    "age_days": 0.06141454333508456,
+    "kind": "data",
+    "verdict": "KEEP",
+    "reason": "touched 0.1d ago"
+  },
+  {
+    "path": "train_levitating.log",
+    "size_kb": 2.0078125,
+    "age_days": 0.0672680155546577,
+    "kind": "data",
+    "verdict": "KEEP",
+    "reason": "touched 0.1d ago"
+  },
+  {
+    "path": "visualizador_1926hz.py",
+    "size_kb": 1.21484375,
+    "age_days": 1.642841661384812,
+    "kind": "script",
+    "verdict": "KEEP",
+    "reason": "touched 1.6d ago"
+  }
+]

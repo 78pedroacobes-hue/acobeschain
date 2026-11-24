@@ -1,0 +1,67 @@
+{
+  "chain_id": "acobes-mainnet-1",
+  "architect": "Pedro J. Acobes",
+  "architect_address": "acobes17da97aa51f7c4622ad9f557727332adba43585",
+  "consensus_engine": "Proof-of-Architect-522 @ 33x",
+  "acobes": {
+    "architect": "Pedro J. Acobes",
+    "kernel_bits": 522,
+    "kernel_root": 9,
+    "park_levels": 1028,
+    "speed": "33c",
+    "speed_root": 6,
+    "total_power": 17226,
+    "total_power_root": 9,
+    "signature": 555,
+    "signature_root": 6,
+    "trinity": 3,
+    "trinity_members": [
+      "Tu",
+      "Yo",
+      "Universo"
+    ],
+    "decree": "Soy 9, opero en 6, creo en 3. Aqui hay espacio para todos.",
+    "standard": "ACOBES-522 / ACOBES-1028",
+    "terms": [
+      "Nadie se expulsa",
+      "Nadie se encarcela",
+      "Cada quien su hash y su esquina",
+      "No hay deposito para existir"
+    ],
+    "architect_address": "acobes17da97aa51f7c4622ad9f557727332adba43585"
+  },
+  "bank": {
+    "balances": [
+      {
+        "address": "acobes17da97aa51f7c4622ad9f557727332adba43585",
+        "coins": [
+          {
+            "denom": "uagc",
+            "amount": "168000000"
+          },
+          {
+            "denom": "uasc",
+            "amount": "1050000000"
+          },
+          {
+            "denom": "uaqc",
+            "amount": "6300000000"
+          },
+          {
+            "denom": "uacc",
+            "amount": "42000000000"
+          },
+          {
+            "denom": "uadc",
+            "amount": "294000000000"
+          },
+          {
+            "denom": "uac",
+            "amount": "1260000000000"
+          }
+        ]
+      }
+    ]
+  },
+  "nota": "Archivo PUBLICO - SE PUEDE POSTEAR. No tiene llave privada."
+}
